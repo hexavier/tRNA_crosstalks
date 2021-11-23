@@ -1,0 +1,5 @@
+figures
+plots
+results
+old
+data
