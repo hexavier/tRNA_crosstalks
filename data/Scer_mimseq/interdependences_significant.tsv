@@ -1,0 +1,116 @@
+reference	canon_var1	canon_var2	cond	#samples	odds	consistent	avg_odds
+Saccharomyces_cerevisiae_tRNA-Gly-GCC-1	9	Charged	WT	2	[-0.10832959 -0.17938223]	True	-0.14385591173125795
+Saccharomyces_cerevisiae_tRNA-Gly-GCC-1	9	Charged	Trm7	3	[-0.16332293 -0.14474321 -0.13202966]	True	-0.14669860214697186
+Saccharomyces_cerevisiae_tRNA-Gln-TTG-3	34	58	WT	3	[0.79844983 1.0209786  1.04047658]	True	0.9533016672921536
+Saccharomyces_cerevisiae_tRNA-Gln-TTG-3	34	Charged	WT	1	[-0.19153337]	True	-0.19153337424266853
+Saccharomyces_cerevisiae_tRNA-Gln-TTG-3	34	58	Trm7	3	[0.58876673 0.75091573 0.64504497]	True	0.6615758093228472
+Saccharomyces_cerevisiae_tRNA-Val-CAC-1	26	58	WT	3	[0.82444254 0.8986416  0.81818616]	True	0.8470900979797138
+Saccharomyces_cerevisiae_tRNA-Val-CAC-1	26	58	Trm7	3	[0.88018832 0.85750875 0.8291585 ]	True	0.8556185207520746
+Saccharomyces_cerevisiae_tRNA-Val-CAC-1	46	58	Trm7	1	[-0.27280172]	True	-0.27280172284694404
+Saccharomyces_cerevisiae_tRNA-Val-AAC-1	9	58	WT	1	[0.08143178]	True	0.08143178022088686
+Saccharomyces_cerevisiae_tRNA-Val-AAC-1	46	Charged	WT	1	[0.08494405]	True	0.08494405127273764
+Saccharomyces_cerevisiae_tRNA-Val-AAC-1	46	58	Trm7	1	[-0.12836925]	True	-0.12836925426625684
+Saccharomyces_cerevisiae_tRNA-Thr-TGT-2	32	58	WT	2	[0.42859665 0.48310112]	True	0.4558488805430501
+Saccharomyces_cerevisiae_tRNA-Thr-TGT-2	32	58	Trm7	2	[0.52286189 0.47245691]	True	0.49765940160210764
+Saccharomyces_cerevisiae_tRNA-Glu-TTC-1	34	Charged	WT	3	[-0.18502668 -0.34679517 -0.15821122]	True	-0.23001102498442674
+Saccharomyces_cerevisiae_tRNA-Glu-TTC-1	34	Charged	Trm7	3	[-0.27473269 -0.17755841 -0.15413342]	True	-0.20214150720269133
+Saccharomyces_cerevisiae_tRNA-Ile-AAT-1	7	9	WT	3	[-1.93960772 -2.04461563 -1.9452036 ]	True	-1.9764756510992287
+Saccharomyces_cerevisiae_tRNA-Ile-AAT-1	9	58	WT	1	[0.16851505]	True	0.16851504986359137
+Saccharomyces_cerevisiae_tRNA-Ile-AAT-1	7	9	Trm7	3	[-2.03513725 -2.07345545 -1.96589677]	True	-2.024829824443731
+Saccharomyces_cerevisiae_tRNA-Pro-AGG-1	34	37	WT	3	[2.2548852  2.74674516 2.15885631]	True	2.3868288888223987
+Saccharomyces_cerevisiae_tRNA-Pro-AGG-1	37	46	WT	1	[-0.31989713]	True	-0.319897129450568
+Saccharomyces_cerevisiae_tRNA-Pro-AGG-1	46	Charged	WT	1	[0.45750548]	True	0.4575054823214268
+Saccharomyces_cerevisiae_tRNA-Pro-AGG-1	34	37	Trm7	3	[1.98502692 2.69819908 3.31775361]	True	2.666993204536021
+Saccharomyces_cerevisiae_tRNA-Pro-AGG-1	37	46	Trm7	1	[-0.30589064]	True	-0.305890637779151
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	26	28	WT	1	[-1.43487996]	True	-1.4348799625981927
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	28	46	WT	1	[1.10192402]	True	1.1019240229149383
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	28	58	WT	1	[0.72057188]	True	0.72057187831627
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	58	Charged	WT	1	[0.17255435]	True	0.17255434670948566
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	26	58	Trm7	3	[1.29846451 1.19763136 0.97785376]	True	1.1579832104024412
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	26	28	Trm7	1	[-2.26348524]	True	-2.263485243598596
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	28	46	Trm7	1	[1.32609]	True	1.3260900026269762
+Saccharomyces_cerevisiae_tRNA-Met-CAT-1	28	58	Trm7	1	[0.80855677]	True	0.8085567657132855
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	WT	3	[1.43439104 0.98121954 1.31670615]	True	1.244105578189196
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	Charged	WT	2	[1.1385028  0.66458031]	True	0.901541553202073
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	37	58	WT	3	[0.36102488 0.41272584 0.43975205]	True	0.404500923546319
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	37	Charged	WT	3	[1.04522302 0.78998518 1.02378807]	True	0.952998755343649
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	46	58	WT	2	[0.24776732 0.20035414]	True	0.22406073139069477
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	37	WT	1	[1.93986697]	True	1.9398669747254331
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	Trm7	1	[1.11796877]	True	1.1179687728747099
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	37	46	Trm7	1	[-0.20314603]	True	-0.20314602917980615
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	35	37	Trm7	2	[-6.56563955 -6.93377305]	True	-6.749706297121211
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	37	58	Trm7	1	[0.15537031]	True	0.15537030557521897
+Saccharomyces_cerevisiae_tRNA-Lys-TTT-1	34	46	WT	2	[-0.29162895 -0.16937965]	True	-0.23050430113028825
+Saccharomyces_cerevisiae_tRNA-Lys-TTT-1	26	Charged	WT	1	[1.01978628]	True	1.0197862822916197
+Saccharomyces_cerevisiae_tRNA-Lys-TTT-1	34	46	Trm7	1	[-0.26317313]	True	-0.2631731339936807
+Saccharomyces_cerevisiae_tRNA-Val-TAC-1	24	26	WT	2	[5.58858618 6.83629733]	True	6.2124417586449665
+Saccharomyces_cerevisiae_tRNA-Val-TAC-1	26	58	WT	3	[0.91014242 1.18738781 1.13532642]	True	1.0776188815651522
+Saccharomyces_cerevisiae_tRNA-Val-TAC-1	26	Charged	WT	1	[-0.46472462]	True	-0.46472462337919673
+Saccharomyces_cerevisiae_tRNA-Val-TAC-1	26	58	Trm7	3	[1.10873594 1.24951024 1.19747149]	True	1.185239220173654
+Saccharomyces_cerevisiae_tRNA-Val-TAC-1	24	26	Trm7	1	[4.40017999]	True	4.400179987401999
+Saccharomyces_cerevisiae_tRNA-Lys-CTT-1	9	58	WT	1	[0.16429032]	True	0.16429031785708775
+Saccharomyces_cerevisiae_tRNA-Lys-CTT-1	46	58	WT	1	[0.21894065]	True	0.2189406476492485
+Saccharomyces_cerevisiae_tRNA-Lys-CTT-1	58	Charged	WT	2	[-0.19754813 -0.21690044]	True	-0.20722428493798029
+Saccharomyces_cerevisiae_tRNA-Lys-CTT-1	9	58	Trm7	3	[0.23213656 0.24952519 0.27351975]	True	0.25172716710649834
+Saccharomyces_cerevisiae_tRNA-Lys-CTT-1	46	58	Trm7	2	[0.16851026 0.10822343]	True	0.138366848285798
+Saccharomyces_cerevisiae_tRNA-Lys-CTT-1	58	Charged	Trm7	3	[-0.14357102 -0.1941367  -0.17008391]	True	-0.16926387414043106
+Saccharomyces_cerevisiae_tRNA-Thr-AGT-1	9	32	WT	3	[0.37300136 0.51310995 0.30289114]	True	0.39633414728120964
+Saccharomyces_cerevisiae_tRNA-Thr-AGT-1	26	32	WT	3	[0.98599159 1.18694637 1.28740201]	True	1.1534466551322742
+Saccharomyces_cerevisiae_tRNA-Thr-AGT-1	32	58	WT	2	[0.20202262 0.27228672]	True	0.23715466931908413
+Saccharomyces_cerevisiae_tRNA-Thr-AGT-1	9	32	Trm7	3	[0.5408057  0.5124696  0.41365364]	True	0.4889763135582968
+Saccharomyces_cerevisiae_tRNA-Thr-AGT-1	26	32	Trm7	3	[1.73485669 1.54404483 1.42281071]	True	1.567237410168479
+Saccharomyces_cerevisiae_tRNA-Thr-AGT-1	32	58	Trm7	2	[0.33482869 0.2322285 ]	True	0.2835285922789037
+Saccharomyces_cerevisiae_tRNA-Thr-AGT-1	9	26	Trm7	1	[0.7999158]	True	0.7999158038810702
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	52	WT	3	[16.49992547 18.00665405 18.90108376]	True	17.802554425234195
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	58	WT	3	[-0.9113228  -0.74782284 -0.66895237]	True	-0.776032668168345
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	67	WT	3	[16.68081559 17.05244214 18.45804478]	True	17.39710083990673
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	Charged	WT	3	[-0.61325935 -0.50207036 -0.48793061]	True	-0.5344201063120965
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	52	58	WT	3	[-0.87360816 -0.7314386  -0.64836613]	True	-0.7511376304745115
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	52	67	WT	3	[19.13576784 18.78995616 20.4770987 ]	True	19.467607566589688
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	52	Charged	WT	3	[-0.63846862 -0.5058397  -0.49468844]	True	-0.5463322539231695
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	58	67	WT	3	[-0.87389835 -0.72867937 -0.64741114]	True	-0.7499962872497797
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	67	Charged	WT	3	[-0.65276842 -0.51866665 -0.48880241]	True	-0.5534124965679104
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	52	Trm7	3	[18.24338609 18.14443072 19.39584241]	True	18.594553074722043
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	58	Trm7	3	[-0.77883382 -0.74195346 -0.68794902]	True	-0.7362454347965667
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	67	Trm7	3	[17.37852009 17.49639675 17.70365799]	True	17.526191612913074
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	42	Charged	Trm7	3	[-0.3139482  -0.6333529  -0.28030916]	True	-0.40920341986875347
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	52	58	Trm7	3	[-0.74529853 -0.71556954 -0.66440896]	True	-0.7084256756958677
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	52	67	Trm7	3	[18.92061067 18.79248699 19.54168931]	True	19.084928989491814
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	52	Charged	Trm7	3	[-0.32138714 -0.64644423 -0.27958768]	True	-0.4158063511845267
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	58	67	Trm7	3	[-0.74496821 -0.71331784 -0.66839237]	True	-0.7088928068401801
+Saccharomyces_cerevisiae_tRNA-Gln-CTG-1	67	Charged	Trm7	3	[-0.32041004 -0.6549843  -0.27699651]	True	-0.41746361541028304
+Saccharomyces_cerevisiae_tRNA-Arg-TCT-1	26	58	WT	1	[0.65068065]	True	0.6506806495374173
+Saccharomyces_cerevisiae_tRNA-Arg-TCT-1	9	26	Trm7	1	[0.97503803]	True	0.9750380279633009
+Saccharomyces_cerevisiae_tRNA-Arg-TCT-1	26	58	Trm7	1	[0.89177013]	True	0.8917701318733445
+Saccharomyces_cerevisiae_tRNA-Leu-TAA-1	58	Charged	WT	1	[-0.16433217]	True	-0.1643321741639703
+Saccharomyces_cerevisiae_tRNA-Leu-TAA-1	37	Charged	Trm7	1	[0.33345583]	True	0.3334558252981844
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-1	37	Charged	WT	2	[0.68191511 1.07859844]	True	0.880256772419078
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-1	26	58	WT	1	[1.7060036]	True	1.706003595648262
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-1	26	58	Trm7	1	[3.12758473]	True	3.127584729472941
+Saccharomyces_cerevisiae_tRNA-Phe-GAA-1	35	37	Trm7	3	[-7.45648462 -6.8206776  -7.45511113]	True	-7.244091113631427
+Saccharomyces_cerevisiae_tRNA-Gly-CCC-2	9	Charged	Trm7	1	[-0.85977574]	True	-0.8597757369500737
+Saccharomyces_cerevisiae_tRNA-Gln-TTG-1	34	58	Trm7	1	[0.53378622]	True	0.533786221687123
+Saccharomyces_cerevisiae_tRNA-Arg-ACG-2	9	58	WT	2	[0.84898102 0.71816828]	True	0.783574650620738
+Saccharomyces_cerevisiae_tRNA-Arg-ACG-2	26	58	WT	2	[4.47455831 2.06433073]	True	3.269444518185943
+Saccharomyces_cerevisiae_tRNA-Arg-ACG-2	9	58	Trm7	1	[0.5944114]	True	0.5944114003742178
+Saccharomyces_cerevisiae_tRNA-Arg-ACG-2	26	58	Trm7	1	[3.85093865]	True	3.850938650940928
+Saccharomyces_cerevisiae_tRNA-Pro-TGG-1	9	37	Trm7	1	[0.07919528]	True	0.07919528227177064
+Saccharomyces_cerevisiae_tRNA-His-GTG-1	37	Charged	WT	1	[-0.09475544]	True	-0.0947554361890883
+Saccharomyces_cerevisiae_tRNA-His-GTG-1	37	Charged	Trm7	1	[-0.11344742]	True	-0.11344742487501283
+Saccharomyces_cerevisiae_mito_tRNA-Glu-TTC-1	34	Charged	Trm7	1	[1.95317473]	True	1.9531747266826416
+Saccharomyces_cerevisiae_tRNA-Asn-GTT-1	9	Charged	Trm7	1	[0.28285205]	True	0.2828520452005975
+Saccharomyces_cerevisiae_mito_tRNA-Pro-TGG-1	26	Charged	Trm7	1	[3.42560674]	True	3.4256067409890307
+Saccharomyces_cerevisiae_tRNA-Ser-GCT-1	32	58	WT	1	[-0.32105782]	True	-0.32105782214278383
+Saccharomyces_cerevisiae_tRNA-Ser-GCT-1	58	Charged	WT	1	[0.19694095]	True	0.19694095186892263
+Saccharomyces_cerevisiae_tRNA-Thr-TGT-1	46	58	WT	1	[-1.05444778]	True	-1.0544477840223767
+Saccharomyces_cerevisiae_tRNA-Thr-TGT-1	32	58	WT	1	[0.7353036]	True	0.7353036036970149
+Saccharomyces_cerevisiae_tRNA-Thr-CGT-1	32	58	WT	1	[0.70633498]	True	0.7063349819037741
+Saccharomyces_cerevisiae_tRNA-Tyr-GTA-1	58	Charged	WT	3	[-0.1571318  -0.19887004 -0.16266479]	True	-0.17288887732425728
+Saccharomyces_cerevisiae_tRNA-Arg-ACG-1	58	Charged	WT	1	[-0.31253833]	True	-0.3125383272142355
+Saccharomyces_cerevisiae_tRNA-Cys-GCA-1	46	Charged	WT	1	[0.1821258]	True	0.1821257985968465
+Saccharomyces_cerevisiae_tRNA-Arg-CCT-1	26	32	WT	1	[1.53711098]	True	1.5371109824591727
+Saccharomyces_cerevisiae_tRNA-Ser-CGA-1	32	Charged	WT	1	[0.35497711]	True	0.3549771090021188
+Saccharomyces_cerevisiae_tRNA-Trp-CCA-1	9	58	WT	1	[0.14734713]	True	0.1473471280514702
+Saccharomyces_cerevisiae_tRNA-Leu-TAG-1	26	28	WT	1	[-2.52234082]	True	-2.5223408199016495
+Saccharomyces_cerevisiae_tRNA-Leu-TAG-1	28	37	WT	1	[-0.30540918]	True	-0.30540918243207227
+Saccharomyces_cerevisiae_tRNA-Leu-GAG-1	26	58	WT	1	[2.14003196]	True	2.1400319646714703

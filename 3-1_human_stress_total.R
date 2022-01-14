@@ -19,8 +19,9 @@ for (r in rownames(total_dataset)){
   pval = sapply(strsplit(total_dataset[r,"pval_cor"],"\\[|\\]| ")[[1]], function(x) if (x!=""){as.numeric(x)}else{NA})
   tempdata$fisher = pval[!is.na(pval)]<0.05
   splitted = strsplit(total_dataset[r,"reference"],"-")[[1]]
+  # Record wobble only for 4-codon boxes
+  tempdata$codbox = substr(splitted[length(splitted)-1],2,3)
   tempdata$wobble = if(substr(splitted[length(splitted)-1],1,1) %in% c("A","T")){"AT"}else{"GC"}
-  tempdata$TC = if(substr(splitted[length(splitted)-1],1,1) %in% "T"){"T"}else if(substr(splitted[length(splitted)-1],1,1) %in% "C"){"C"}else{"AG"}
   tempdata$aa = splitted[length(splitted)-2]
   dataset = rbind(dataset,tempdata)
 }
@@ -61,7 +62,7 @@ ggsave("plots/differences_total_stress_charging.pdf",width=15,height=9)
 
 
 ### Differences between wobble positions ###
-diffcond = compare_means(odds ~ wobble, data = dataset, group.by = c("pair","aa","cond"),
+diffcond = compare_means(odds ~ wobble, data = dataset, group.by = c("codbox","pair","aa","cond"),
                          method = "t.test", p.adjust.method="fdr")
 
 # Focus on charging
@@ -69,7 +70,7 @@ chrgsubset = diffcond[sapply(diffcond$pair,function(x) strsplit(x,"-")[[1]][2])=
 
 # Plot per AA family
 ggplot(dataset[(apply(dataset[,c("aa","pair")],1,paste0,collapse="_") %in% apply(chrgsubset[,c("aa","pair")],1,paste0,collapse="_")),], aes(x=cond, y=odds, fill=wobble)) + 
-  facet_wrap( ~ aa*pair, ncol=6, scales = "free") +
+  facet_wrap( ~ codbox*aa*pair, ncol=6, scales = "free") +
   geom_boxplot(lwd=0.5, notch=F, outlier.shape = NA , na.rm=T,alpha=0.3, 
                position = position_dodge(width=0.9)) +
   scale_fill_manual(values=c("#ed8975ff", "#8fb9aaff")) +
@@ -79,18 +80,4 @@ ggplot(dataset[(apply(dataset[,c("aa","pair")],1,paste0,collapse="_") %in% apply
   theme_classic() +
   theme(axis.text.x = element_text(angle = 30, vjust = 1, hjust=1,color="black"),
         axis.text.y=element_text(colour="black"))
-ggsave("plots/differences_total_wobble_AAfamilies.pdf",width=12,height=15)
-
-subdataset = dataset[dataset$TC %in% c("C","T"),]
-ggplot(subdataset[(apply(subdataset[,c("aa","pair")],1,paste0,collapse="_") %in% apply(chrgsubset[,c("aa","pair")],1,paste0,collapse="_")),], aes(x=cond, y=odds, fill=TC)) + 
-  facet_wrap( ~ aa*pair, ncol=6, scales = "free") +
-  geom_boxplot(lwd=0.5, notch=F, outlier.shape = NA , na.rm=T,alpha=0.3, 
-               position = position_dodge(width=0.9)) +
-  scale_fill_manual(values=c("#ed8975ff", "#8fb9aaff")) +
-  scale_color_manual(values=c("#ed8975ff", "#8fb9aaff")) +
-  geom_jitter(na.rm=T , alpha=1, size=1, aes(color = TC),position=position_jitterdodge(dodge.width=0.9)) +
-  stat_compare_means(method = "t.test", label = "p.signif") +
-  theme_classic() +
-  theme(axis.text.x = element_text(angle = 30, vjust = 1, hjust=1,color="black"),
-        axis.text.y=element_text(colour="black"))
-ggsave("plots/differences_total_TvsC_AAfamilies.pdf",width=12,height=15)
+ggsave("plots/differences_total_wobble_AAfamilies.pdf",width=12,height=22)

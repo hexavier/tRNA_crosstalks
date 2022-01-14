@@ -1,0 +1,12 @@
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc1_TTCC.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc1_TTCC.tsv	control
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc2_TCTG.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc2_TCTG.tsv	control
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc3_TGGT.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc3_TGGT.tsv	control
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc4_CTGA.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc4_CTGA.tsv	heatshock
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc5_CCAT.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc5_CCAT.tsv	heatshock
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc6_CATC.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc6_CATC.tsv	heatshock
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc7_GTAG.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc7_GTAG.tsv	H2O2
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc8_GGTA.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc8_GGTA.tsv	H2O2
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc9_GACT.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc9_GACT.tsv	H2O2
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc10_ACCA.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc10_ACCA.tsv	NaAsO2
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc11_AGAC.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc11_AGAC.tsv	NaAsO2
+data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ1_S3_L1_bc12_AAGG.tsv	data/Human_stress_polysome_mRNA/tsv/TP-CK-4S-WZ2_S4_L1_bc12_AAGG.tsv	NaAsO2
