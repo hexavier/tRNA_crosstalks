@@ -1,0 +1,4201 @@
+sample	ref	var1	var2	pval	odds_ratio	values	pval_corrected	canon_var1	canon_var2
+modA0-175_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.31803483251168624	0.9265859422933536	"26     58   
+False  False    15308
+True   False     3201
+False  True      1249
+True   True       242
+dtype: int64"	0.3602336290585443	26	58
+modA0-675_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.6494710472874957e-22	1.3636740353945365	"26     58   
+True   True     9421
+False  True     4107
+True   False    4059
+False  False    2413
+dtype: int64"	8.959563928025349e-22	26	58
+modA0-075_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.859824888779535e-14	1.5174013693524022	"26     58   
+False  True     10456
+       False     8036
+True   True      1001
+       False      507
+dtype: int64"	1.7027934121083952e-13	26	58
+modA0-675_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.4376704723281002	0.973811523714575	"26     58   
+True   False    9799
+False  False    4630
+True   True     3751
+False  True     1820
+dtype: int64"	0.48020271258568986	26	58
+modA0-875_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5991238697571354e-12	0.7172894433746276	"26     58   
+True   True     11567
+       False     5919
+False  True      1839
+       False      675
+dtype: int64"	3.7188927203654315e-12	26	58
+modA0-975_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.079172808956766e-11	0.5312389531293256	"26     58   
+True   False    14230
+       True      5289
+False  False      283
+       True       198
+dtype: int64"	1.1076077776541235e-10	26	58
+modA0-175_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.9659703337086365e-68	0.4887006888677715	"26     58   
+False  False    9887
+       True     6681
+True   False    2580
+       True      852
+dtype: int64"	2.471641944757197e-67	26	58
+modA0-175_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.7661838906985173e-56	0.48786366825331823	"26     58   
+False  False    11569
+       True      4924
+True   False     2904
+       True       603
+dtype: int64"	1.9758456362132264e-55	26	58
+modA0-575_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.174273109310303e-05	1.2507565048447846	"26     58   
+True   False    10532
+False  False     8002
+True   True       912
+False  True       554
+dtype: int64"	9.498881706631235e-05	26	58
+modA0-875_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0046120581744825435	0.8615846195256199	"26     58   
+True   True     13479
+       False     4013
+False  True      1996
+       False      512
+dtype: int64"	0.006256668066158489	26	58
+modA0-675_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.9090554620500739	0.9937930475633392	"26     58   
+True   True     11765
+False  True      5756
+True   False     1668
+False  False      811
+dtype: int64"	0.9180582305863353	26	58
+modA0-475_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7253763763846264	0.9670178694908469	"26     58   
+False  True     10224
+True   True      9242
+False  False      276
+True   False      258
+dtype: int64"	0.7556003920673192	26	58
+modA0-375_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.2550858647447686e-19	0.4380817285980616	"26     58   
+False  True     12337
+True   True      7172
+       False      280
+False  False      211
+dtype: int64"	9.779227919834068e-19	26	58
+modA0-575_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4784563510632707e-09	0.8404659057411877	"26     58   
+True   False    6422
+       True     5164
+False  False    4300
+       True     4114
+dtype: int64"	3.0084867608845624e-09	26	58
+modA0-975_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00030592542587540956	1.6312693819045907	"26     58   
+True   False    16095
+       True      3409
+False  False      439
+       True        57
+dtype: int64"	0.0004470726474170912	26	58
+modA0-975_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0008748021041367312	0.7317597999188583	"26     58   
+True   True     11207
+       False     8286
+False  True       329
+       False      178
+dtype: int64"	0.0012497172916239017	26	58
+modA0-775_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.376534239837443e-20	0.7087772226330356	"26     58   
+True   False    11473
+       True      4055
+False  False     2984
+       True      1488
+dtype: int64"	4.2636016278150893e-20	26	58
+modA0-275_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.2724566423224812e-23	1.4172251801440152	"26     58   
+False  True     9577
+       False    4942
+True   True     4018
+       False    1463
+dtype: int64"	4.4535982481286846e-23	26	58
+modA0-575_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.884820220511351e-24	0.6902187375226023	"26     58   
+True   False    9685
+False  False    6652
+True   True     1836
+False  True     1827
+dtype: int64"	2.4714739253117668e-23	26	58
+modA0-675_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.738831410084008e-22	1.4918377169389314	"26     58   
+True   False    10868
+False  False     5576
+True   True      2646
+False  True       910
+dtype: int64"	5.966578367935321e-22	26	58
+modA0-275_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.904386077480272e-09	0.7713484181924047	"26     58   
+False  False    11893
+True   False     4640
+False  True      2665
+True   True       802
+dtype: int64"	3.841701020853574e-09	26	58
+modA0-875_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0006709879092874825	0.7940776695791435	"26     58   
+True   True     15218
+       False     2287
+False  True      2229
+       False      266
+dtype: int64"	0.0009644590071893999	26	58
+modA0-675_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0648326267084037e-06	0.8609793379134594	"26     58   
+True   True     7569
+       False    5899
+False  True     3909
+       False    2623
+dtype: int64"	1.8091816473201035e-06	26	58
+modA0-775_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.013929203396341296	1.1757673200997671	"26     58   
+True   False    14214
+False  False     4232
+True   True      1240
+False  True       314
+dtype: int64"	0.018225125939138144	26	58
+modA0-475_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.507999764543388e-31	1.3941116069827981	"26     58   
+True   True     5915
+False  True     5676
+       False    4812
+True   False    3597
+dtype: int64"	3.8176922020386994e-30	26	58
+modA0-675_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.3562692910467355	0.972157514622114	"26     58   
+True   False    7092
+       True     6426
+False  False    3355
+       True     3127
+dtype: int64"	0.3990216059723437	26	58
+modA0-575_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.05973466793516e-34	0.5204827837843028	"26     58   
+True   False    10899
+False  False     7599
+       True       860
+True   True       642
+dtype: int64"	4.3736650121066286e-33	26	58
+modA0-475_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.102486785502747e-128	0.5022857939490415	"26     58   
+True   False    5987
+False  True     5685
+       False    4657
+True   True     3671
+dtype: int64"	2.2090313460399406e-126	26	58
+modA0-775_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.09313822234429e-18	1.3618410494735687	"26     58   
+True   True     10754
+       False     4708
+False  True      2843
+       False     1695
+dtype: int64"	1.1888783218427397e-17	26	58
+modA0-275_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8667272574134355e-50	0.5087933052246821	"26     58   
+False  True     13034
+True   True      4470
+False  False     1491
+True   False     1005
+dtype: int64"	1.2099158149901898e-49	26	58
+modA0-375_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0936378429489335e-13	1.2707517900308212	"26     58   
+False  False    9184
+True   False    5167
+False  True     3294
+True   True     2355
+dtype: int64"	2.6767359792456413e-13	26	58
+modA0-975_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6978909327108787	0.9532585447299627	"26     58   
+True   True     15188
+       False     4330
+False  True       379
+       False      103
+dtype: int64"	0.7296970265472815	26	58
+modA0-775_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.75366759337326e-22	2.018461984401196	"26     58   
+True   False    14185
+False  False     4309
+True   True      1309
+False  True       197
+dtype: int64"	2.2299845827175858e-21	26	58
+modA0-075_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.11938155923620106	0.8825886544827223	"26     58   
+False  True     16242
+       False     2277
+True   True      1278
+       False      203
+dtype: int64"	0.14333977952888635	26	58
+modA0-275_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.0185530794080956e-24	1.4210593961800662	"26     58   
+False  False    10770
+True   False     3743
+False  True      3673
+True   True      1814
+dtype: int64"	1.4650974768675347e-23	26	58
+modA0-075_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.25923147890584e-10	0.7162550696348142	"26     58   
+False  True     10757
+       False     7685
+True   True       780
+       False      778
+dtype: int64"	6.913521318891175e-10	26	58
+modA0-675_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.680546184242185e-08	0.7343521798067253	"26     58   
+True   False    12705
+False  False     5791
+True   True       928
+False  True       576
+dtype: int64"	6.982065932166747e-08	26	58
+modA0-875_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.000124700843604537	1.21255777272007	"26     58   
+True   True     13667
+       False     3859
+False  True      1843
+       False      631
+dtype: int64"	0.00018935052174224706	26	58
+modA0-875_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.757064882539352e-17	2.282302206452205	"26     58   
+True   False    16101
+False  False     2396
+True   True      1411
+False  True        92
+dtype: int64"	1.8769624673720423e-16	26	58
+modA0-375_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0015701347976062041	0.8379120879120879	"26     58   
+False  False    11407
+True   False     7072
+False  True      1001
+True   True       520
+dtype: int64"	0.002202593904457601	26	58
+modA0-875_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9864097283280428e-14	1.4517066432212165	"26     58   
+True   True     13729
+       False     3735
+False  True      1818
+       False      718
+dtype: int64"	5.074769378940256e-14	26	58
+modA0-375_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.817560929670913	0.9788344828282625	"26     58   
+False  True     12126
+True   True      7362
+False  False      316
+True   False      196
+dtype: int64"	0.8403709996617315	26	58
+modA0-375_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.145485672423764e-09	1.191369271458249	"26     58   
+False  False    6657
+       True     5799
+True   True     3842
+       False    3702
+dtype: int64"	4.315632099702973e-09	26	58
+modA0-175_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.061115666400334e-24	1.4695994704038065	"26     58   
+False  False    10580
+       True      5931
+True   False     1913
+       True      1576
+dtype: int64"	1.1277794560422284e-23	26	58
+modA0-975_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.002023284951188125	1.5309992967674126	"26     58   
+True   False    16141
+       True      3386
+False  False      416
+       True        57
+dtype: int64"	0.0028213136769555526	26	58
+modA0-675_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.434991159977744e-10	1.2230135411343894	"26     58   
+True   True     9324
+False  True     4256
+True   False    4120
+False  False    2300
+dtype: int64"	7.24245124091693e-10	26	58
+modA0-375_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.171624991953335e-08	1.6827487271145185	"26     58   
+False  True     12149
+True   True      7320
+False  False      391
+True   False      140
+dtype: int64"	1.3351429506296102e-07	26	58
+modA0-675_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.999053995951533e-08	1.2013963212365497	"26     58   
+True   False    9714
+False  False    4880
+True   True     3812
+False  True     1594
+dtype: int64"	1.8322873814570873e-07	26	58
+modA0-075_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.807813227498325e-21	1.6557672092594953	"26     58   
+False  False    11641
+       True      6831
+True   False      775
+       True       753
+dtype: int64"	1.8312924591210936e-20	26	58
+modA0-375_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.962910158309257e-19	0.7563813445610655	"26     58   
+False  True     8786
+True   True     4777
+False  False    3745
+True   False    2692
+dtype: int64"	8.939815132829657e-19	26	58
+modA0-875_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.980017095573993e-23	1.5290462623795957	"26     58   
+True   True     10246
+       False     7308
+False  False     1276
+       True      1170
+dtype: int64"	3.441385205370343e-22	26	58
+modA0-575_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.990290541172796e-35	0.6842416391354271	"26     58   
+True   True     7313
+False  True     6130
+True   False    4167
+False  False    2390
+dtype: int64"	3.0385531730586646e-34	26	58
+modA0-675_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.563860741357824e-35	1.4779251453488371	"26     58   
+True   False    8041
+       True     5423
+False  False    4488
+       True     2048
+dtype: int64"	2.8428485539784504e-34	26	58
+modA0-075_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.536947302207241e-28	0.5231107758263356	"26     58   
+False  True     14489
+       False     4019
+True   True       975
+       False      517
+dtype: int64"	2.6450075789277855e-27	26	58
+modA0-275_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0523337135642786e-18	0.7457833859095688	"26     58   
+False  False    8806
+       True     5706
+True   False    3700
+       True     1788
+dtype: int64"	3.108158647658207e-18	26	58
+modA0-675_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.466998981109692e-19	0.7156373091944738	"26     58   
+True   True     10261
+False  True      5221
+True   False     3312
+False  False     1206
+dtype: int64"	7.475754488211188e-19	26	58
+modA0-575_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.445999365596274e-37	0.6854770034141949	"26     58   
+True   False    7586
+False  False    4923
+True   True     3848
+False  True     3643
+dtype: int64"	8.03332980886819e-37	26	58
+modA0-275_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.788340705801734e-30	1.4292061094301027	"26     58   
+False  False    7897
+       True     6446
+True   True     3046
+       False    2611
+dtype: int64"	3.36533240374149e-29	26	58
+modA0-275_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.678352380968296e-23	0.7307603253036496	"26     58   
+False  True     8680
+       False    5713
+True   True     2950
+       False    2657
+dtype: int64"	1.9677458745929738e-22	26	58
+modA0-875_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.7201719221508166e-64	2.120911758391183	"26     58   
+True   False    8900
+       True     8590
+False  False    1725
+       True      785
+dtype: int64"	1.3840463741443352e-63	26	58
+modA0-375_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.670728823204753e-76	0.5370604450132638	"26     58   
+False  False    8398
+True   False    6005
+False  True     4044
+True   True     1553
+dtype: int64"	1.6020687345799001e-75	26	58
+modA0-075_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.023365749986037958	1.1288308518708554	"26     58   
+False  False    9610
+       True     8867
+True   True      777
+       False     746
+dtype: int64"	0.030121592983842673	26	58
+modA0-475_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.0406134251914536e-06	1.1464645347983258	"26     58   
+False  False    6724
+True   False    5801
+False  True     3758
+True   True     3717
+dtype: int64"	5.043671558374449e-06	26	58
+modA0-175_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.287510114728667e-22	0.653704028195129	"26     58   
+False  False    11854
+       True      4692
+True   False     2744
+       True       710
+dtype: int64"	3.037970598275732e-21	26	58
+modA0-175_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0039282561720458565	1.1800969708707698	"26     58   
+False  True     14318
+True   True      3084
+False  False     2197
+True   False      401
+dtype: int64"	0.005370662735218945	26	58
+modA0-575_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.7918689006065545e-105	1.923024666616849	"26     58   
+True   False    6426
+False  False    6030
+True   True     5070
+False  True     2474
+dtype: int64"	5.922146152801783e-104	26	58
+modA0-475_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.06565953821313794	0.8426476532500039	"26     58   
+False  True     10210
+True   True      9305
+       False      252
+False  False      233
+dtype: int64"	0.08063452061262555	26	58
+modA0-375_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.269510121332224e-81	0.518776876465989	"26     58   
+False  True     10232
+True   True      5301
+False  False     2235
+True   False     2232
+dtype: int64"	8.077233468146916e-80	26	58
+modA0-075_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3795822717002228e-29	0.549777389343821	"26     58   
+False  True     10815
+       False     7626
+True   False      876
+       True       683
+dtype: int64"	5.888460915793633e-29	26	58
+modA0-275_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.364974573214141e-11	1.3985834443886134	"26     58   
+False  True     12575
+True   True      4932
+False  False     1947
+True   False      546
+dtype: int64"	5.25549905158698e-11	26	58
+modA0-075_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.2889043653417386e-21	2.247423143564507	"26     58   
+False  False    17218
+True   False     1298
+False  True      1269
+True   True       215
+dtype: int64"	7.316132674608298e-21	26	58
+modA0-275_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.342471634654675e-18	1.4011652150609675	"26     58   
+False  True     10975
+True   True      4581
+False  False     3424
+True   False     1020
+dtype: int64"	2.115115285702993e-17	26	58
+modA0-675_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.8405892917385187e-87	0.5122619767606763	"26     58   
+True   True     8610
+False  True     5017
+True   False    4908
+False  False    1465
+dtype: int64"	3.682245378179562e-86	26	58
+modA0-875_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.124967303977309e-43	1.9437581630368412	"26     58   
+True   True     13880
+       False     3679
+False  True      1611
+       False      830
+dtype: int64"	6.56230927320097e-43	26	58
+modA0-275_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.824107631934159e-92	2.0611931017063347	"26     58   
+False  True     9179
+       False    5279
+True   True     4333
+       False    1209
+dtype: int64"	1.2170834094119803e-90	26	58
+modA0-175_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.600072182428054e-74	2.056878628867529	"26     58   
+False  False    12405
+       True      4122
+True   False     2063
+       True      1410
+dtype: int64"	4.236908589078471e-73	26	58
+modA0-775_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.396176503625042e-78	2.0500554736971357	"26     58   
+True   True     12458
+False  True      3065
+True   False     2976
+False  False     1501
+dtype: int64"	1.4164109457065642e-77	26	58
+modA0-175_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.060359151436940296	1.286087605774017	"26     58   
+False  True     16072
+True   True      3445
+False  False      414
+True   False       69
+dtype: int64"	0.07464912721883075	26	58
+modA0-575_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.040754158200472e-33	1.4152741569852656	"26     58   
+True   True     7078
+False  True     4472
+True   False    4461
+False  False    3989
+dtype: int64"	1.91116750725698e-32	26	58
+modA0-975_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0010642739046532704	1.4325102936765468	"26     58   
+True   False    14105
+       True      5402
+False  False      389
+       True       104
+dtype: int64"	0.0015111394183717835	26	58
+modA0-475_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0472656667967129e-29	1.4123067785826682	"26     58   
+False  True     6811
+True   True     6751
+False  False    3783
+True   False    2655
+dtype: int64"	4.49745991875889e-29	26	58
+modA0-475_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1417243004949808e-140	2.05707606242523	"26     58   
+False  False    6354
+True   True     5444
+False  True     4151
+True   False    4051
+dtype: int64"	3.996035051732433e-138	26	58
+modA0-875_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00030179498835733616	0.843993353434358	"26     58   
+True   False    12715
+       True      4805
+False  False     1713
+       True       767
+dtype: int64"	0.0004419591879709944	26	58
+modA0-875_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.03299189904346506	0.889950617422984	"26     58   
+True   False    14380
+       True      3060
+False  False     2066
+       True       494
+dtype: int64"	0.04193585907509202	26	58
+modA0-775_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.1820643680421578e-24	1.4132405626906461	"26     58   
+True   True     9111
+       False    6351
+False  True     2286
+       False    2252
+dtype: int64"	8.081719881637622e-24	26	58
+modA0-175_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.838187012401101e-06	0.8139480770581903	"26     58   
+False  False    11906
+       True      4657
+True   False     2607
+       True       830
+dtype: int64"	3.070956822627138e-06	26	58
+modA0-375_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.296362963064221e-22	1.4090965041851304	"26     58   
+False  True     9478
+True   True     5985
+False  False    3133
+True   False    1404
+dtype: int64"	2.7265042601619506e-21	26	58
+modA0-275_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.998821084626875e-13	1.2594980457979672	"26     58   
+False  False    9179
+       True     5204
+True   False    3277
+       True     2340
+dtype: int64"	2.113817033301615e-12	26	58
+modA0-775_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.221689420851129e-09	1.3547992476414745	"26     58   
+True   True     13756
+False  True      3804
+True   False     1775
+False  False      665
+dtype: int64"	2.5078668463219656e-09	26	58
+modA0-375_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3358466813950045e-14	0.7359594446826924	"26     58   
+False  False    10292
+True   False     6261
+False  True      2381
+True   True      1066
+dtype: int64"	3.45052648330813e-14	26	58
+modA0-475_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.29446622143538903	1.0597100310508702	"26     58   
+False  False    9790
+True   False    8793
+False  True      726
+True   True      691
+dtype: int64"	0.335710675903538	26	58
+modA0-675_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.132524819766307e-36	1.46820233641223	"26     58   
+True   True     6799
+       False    6742
+False  False    3829
+       True     2630
+dtype: int64"	1.1482825952587806e-35	26	58
+modA0-175_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5625942078786899	0.9571419222954866	"26     58   
+False  False    15294
+True   False     3297
+False  True      1168
+True   True       241
+dtype: int64"	0.6058706854078199	26	58
+modA0-575_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.17410174009271867	1.0790266076029995	"26     58   
+True   False    10719
+False  False     7846
+True   True       855
+False  True       580
+dtype: int64"	0.20482557657966902	26	58
+modA0-175_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.3408192048906264	1.0403017593086499	"26     58   
+False  False    11947
+       True      4494
+True   False     2558
+       True      1001
+dtype: int64"	0.3829429268434004	26	58
+modA0-775_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.797648174439557e-25	1.445798319327731	"26     58   
+True   False    9350
+       True     6105
+False  False    3131
+       True     1414
+dtype: int64"	1.4292224312406934e-24	26	58
+modA0-975_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.3746885099190456e-13	2.1102938001980007	"26     58   
+True   False    12213
+       True      7288
+False  False      389
+       True       110
+dtype: int64"	1.0380616803197735e-12	26	58
+modA0-875_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.012168496651552254	1.1310825327257057	"26     58   
+True   False    12620
+       True      4942
+False  False     1811
+       True       627
+dtype: int64"	0.01607159935110675	26	58
+modA0-275_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.7342403961345436e-07	1.2241188886827294	"26     58   
+False  True     11071
+True   True      4436
+False  False     3385
+True   False     1108
+dtype: int64"	3.112739172549181e-07	26	58
+modA0-075_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.2635046454896982e-24	1.7911722910079757	"26     58   
+False  False    13612
+       True      4901
+True   False      904
+       True       583
+dtype: int64"	4.704538573631855e-24	26	58
+modA0-475_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.7568796502813895e-05	0.8314279487596223	"26     58   
+False  True     9328
+True   True     8185
+       False    1277
+False  False    1210
+dtype: int64"	2.8077985278469698e-05	26	58
+modA0-875_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.16450747124294784	0.9418551181326907	"26     58   
+True   True     9980
+       False    7456
+False  True     1505
+       False    1059
+dtype: int64"	0.19484810468707867	26	58
+modA0-075_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.4794715576122127e-05	0.7860441186376507	"26     58   
+False  True     12616
+       False     5924
+True   True       914
+       False      546
+dtype: int64"	3.891547287732173e-05	26	58
+modA0-275_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.06026465487055896	0.8315211760664373	"26     58   
+False  True     14107
+True   True      5398
+False  False      339
+True   False      156
+dtype: int64"	0.07464912721883075	26	58
+modA0-675_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.779692729097126e-58	2.0223207299846444	"26     58   
+True   True     12186
+False  True      5307
+True   False     1333
+False  False     1174
+dtype: int64"	2.026859281633321e-57	26	58
+modA0-675_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.4755786427937087e-06	0.8299349265690075	"26     58   
+True   False    11365
+False  False     5174
+True   True      2235
+False  True      1226
+dtype: int64"	4.125964404656181e-06	26	58
+modA0-675_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.26046173327457744	1.0420882440505301	"26     58   
+True   True     10553
+False  True      4969
+True   False     3004
+False  False     1474
+dtype: int64"	0.30086338827096404	26	58
+modA0-875_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.482670134772606e-11	0.7481007412864312	"26     58   
+True   False    9392
+       True     8124
+False  True     1332
+       False    1152
+dtype: int64"	3.337199660259885e-11	26	58
+modA0-675_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.461798416530982e-05	0.8858589995990157	"26     58   
+True   False    7295
+       True     6218
+False  False    3306
+       True     3181
+dtype: int64"	9.919427393797559e-05	26	58
+modA0-475_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5335950770209233e-07	1.1609621171243432	"26     58   
+False  False    5740
+       True     4812
+True   False    4788
+       True     4660
+dtype: int64"	2.759682657878268e-07	26	58
+modA0-075_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.853302527823151e-05	0.7365991678280839	"26     58   
+False  True     16197
+       False     2285
+True   True      1274
+       False      244
+dtype: int64"	7.499584480079924e-05	26	58
+modA0-575_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0028570603728007e-34	1.4233248235417433	"26     58   
+True   True     5990
+       False    5532
+False  False    4815
+       True     3663
+dtype: int64"	5.050359296841443e-34	26	58
+modA0-075_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.190299358933216e-06	1.2812521840789381	"26     58   
+False  False    11709
+       True      6843
+True   False      828
+       True       620
+dtype: int64"	1.330211032773376e-05	26	58
+modA0-875_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.077693360213536e-11	0.7506168001593917	"26     58   
+True   True     9942
+       False    7538
+False  True     1606
+       False     914
+dtype: int64"	1.3212376870029427e-10	26	58
+modA0-975_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.03300951192910815	0.8157171513552506	"26     58   
+True   True     11216
+       False     8295
+False  True       305
+       False      184
+dtype: int64"	0.04193585907509202	26	58
+modA0-075_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.1768760860699013	1.143195589074755	"26     58   
+False  False    17180
+       True      1402
+True   False     1297
+       True       121
+dtype: int64"	0.20739239572685245	26	58
+modA0-175_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0002162627014651246	1.282077051926298	"26     58   
+False  False    15308
+True   False     3180
+False  True      1194
+True   True       318
+dtype: int64"	0.0003200505095678377	26	58
+modA0-875_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.65617054515004e-31	1.8262563056743943	"26     58   
+True   False    12438
+       True      5049
+False  False     2056
+       True       457
+dtype: int64"	1.661895702340927e-30	26	58
+modA0-375_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9492483816730742e-37	1.8167046734620986	"26     58   
+False  True     10705
+True   True      6802
+False  False     1847
+True   False      646
+dtype: int64"	1.0743888717883086e-36	26	58
+modA0-175_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.944930474907014e-30	0.5368017164197996	"26     58   
+False  False    13390
+True   False     3117
+False  True      3105
+True   True       388
+dtype: int64"	8.562586996445973e-30	26	58
+modA0-175_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0961888526842744e-21	1.4245703449802296	"26     58   
+False  False    8906
+       True     7519
+True   True     1952
+       False    1623
+dtype: int64"	3.56898696222787e-21	26	58
+modA0-975_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.1061236832960129	1.1707275549090157	"26     58   
+True   True     13128
+       False     6387
+False  True       309
+       False      176
+dtype: int64"	0.12830151693818487	26	58
+modA0-175_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.715287955079456e-21	0.669336598897872	"26     58   
+False  True     12956
+       False     3571
+True   True      2460
+       False     1013
+dtype: int64"	1.4935301215183796e-20	26	58
+modA0-075_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.05241763912827482	0.8673743653001955	"26     58   
+False  False    15284
+       True      3178
+True   False     1303
+       True       235
+dtype: int64"	0.06517290833000422	26	58
+modA0-575_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.884103094971254e-112	0.48814938706983574	"26     58   
+True   False    9045
+False  False    5444
+       True     3043
+True   True     2468
+dtype: int64"	2.703857463686903e-110	26	58
+modA0-875_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.3377481257969356	0.9547165579421119	"26     58   
+True   False    12773
+       True      4700
+False  False     1824
+       True       703
+dtype: int64"	0.38010239237597254	26	58
+modA0-375_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.061863181903852e-54	0.5129200238648277	"26     58   
+False  True     11138
+True   True      6325
+       False     1333
+False  False     1204
+dtype: int64"	7.433042273326964e-54	26	58
+modA0-275_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.1479649626432764e-74	2.0439266599586663	"26     58   
+False  False    12259
+True   False     4197
+False  True      2085
+True   True      1459
+dtype: int64"	2.004767298467058e-73	26	58
+modA0-675_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.37691869817200985	1.0272990586735806	"26     58   
+True   True     7755
+       False    5692
+False  True     3736
+       False    2817
+dtype: int64"	0.4201323068796288	26	58
+modA0-075_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0706712867544469e-13	0.621778736665468	"26     58   
+False  False    13280
+       True      5184
+True   False     1236
+       True       300
+dtype: int64"	2.629718949923203e-13	26	58
+modA0-575_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.49573345246922e-22	1.3651720694934435	"26     58   
+True   False    7964
+False  False    6479
+True   True     3482
+False  True     2075
+dtype: int64"	1.495930275729364e-21	26	58
+modA0-775_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00013420373930610288	0.8648619067466664	"26     58   
+True   False    11463
+       True      4130
+False  False     3111
+       True      1296
+dtype: int64"	0.0002024625377462759	26	58
+modA0-475_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.310278122261158e-25	0.6787827354574666	"26     58   
+False  False    8352
+True   False    8043
+False  True     2180
+True   True     1425
+dtype: int64"	8.741592895042219e-25	26	58
+modA0-675_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.665305306913484	1.0417093904788273	"26     58   
+True   True     13135
+False  True      6361
+True   False      335
+False  False      169
+dtype: int64"	0.7013760765654199	26	58
+modA0-875_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.3461950580229357	0.9386769386744385	"26     58   
+True   True     15324
+False  True      2221
+True   False     2161
+False  False      294
+dtype: int64"	0.38835984073085733	26	58
+modA0-075_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.9716012029301034e-11	1.4904300901477394	"26     58   
+False  True     12459
+       False     6057
+True   True      1119
+       False      365
+dtype: int64"	1.0875377631409601e-10	26	58
+modA0-075_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.31094189932754e-14	2.0660111243170913	"26     58   
+False  True     16139
+       False     2368
+True   True      1394
+       False       99
+dtype: int64"	2.294950468144112e-13	26	58
+modA0-175_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0406469508757268	0.8948716002044484	"26     58   
+False  True     14374
+True   True      3062
+False  False     2071
+True   False      493
+dtype: int64"	0.05117421872843302	26	58
+modA0-475_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6630740091567777	0.9865960891870086	"26     58   
+False  True     6966
+True   True     6386
+False  False    3446
+True   False    3202
+dtype: int64"	0.7000781393812132	26	58
+modA0-975_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.14532717438182008	1.3778475832319435	"26     58   
+True   False    18082
+       True      1469
+False  False      424
+       True        25
+dtype: int64"	0.17389576421756248	26	58
+modA0-875_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0403057442453669	1.0956111317553456	"26     58   
+True   True     11690
+       False     5691
+False  True      1708
+       False      911
+dtype: int64"	0.05083607382298528	26	58
+modA0-275_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.575227804433247e-79	2.1621395051065706	"26     58   
+False  True     10682
+True   True      4860
+False  False     3683
+True   False      775
+dtype: int64"	6.869640989706378e-78	26	58
+modA0-375_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6987783338405418e-13	0.7992525603220206	"26     58   
+False  False    7590
+       True     4978
+True   False    4876
+       True     2556
+dtype: int64"	4.1004994265116525e-13	26	58
+modA0-075_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.6712069756669583e-13	1.6068798456124316	"26     58   
+False  False    15385
+       True      3084
+True   False     1158
+       True       373
+dtype: int64"	6.381723150057579e-13	26	58
+modA0-575_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.629748339718803e-26	0.7348634546282523	"26     58   
+True   True     6299
+False  True     5261
+True   False    5230
+False  False    3210
+dtype: int64"	1.4037700761343437e-25	26	58
+modA0-275_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.3546620195091624e-104	0.4751675181195883	"26     58   
+False  False    8501
+       True     6038
+True   False    4083
+       True     1378
+dtype: int64"	1.1024304157812982e-102	26	58
+modA0-575_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.26279997221972073	0.901503870693649	"26     58   
+True   True     11219
+False  True      8257
+True   False      315
+False  False      209
+dtype: int64"	0.30306421837529574	26	58
+modA0-075_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8297554010906238	0.987454581608489	"26     58   
+False  True     10593
+       False     7875
+True   True       874
+       False      658
+dtype: int64"	0.8504081709567155	26	58
+modA0-775_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.548550627249855e-08	1.2790668859721719	"26     58   
+True   False    12662
+False  False     3886
+True   True      2784
+False  True       668
+dtype: int64"	1.7589435365986578e-07	26	58
+modA0-575_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00012731703318029301	1.1158600598972486	"26     58   
+True   False    5810
+       True     5601
+False  False    4608
+       True     3981
+dtype: int64"	0.00019290459572771668	26	58
+modA0-275_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0027375876194962196	1.1941716213259088	"26     58   
+False  False    13411
+True   False     5124
+False  True      1006
+True   True       459
+dtype: int64"	0.003787176548710185	26	58
+modA0-375_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.9186737056027324e-18	1.4838742922105217	"26     58   
+False  True     10671
+True   True      6790
+False  False     1777
+True   False      762
+dtype: int64"	8.51279830800797e-18	26	58
+modA0-775_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.087254796287949e-85	2.0424286545749606	"26     58   
+True   False    9110
+       True     6326
+False  False    3406
+       True     1158
+dtype: int64"	6.035726029494177e-84	26	58
+modA0-275_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6449431270008978	1.0151004243074253	"26     58   
+False  False    7681
+       True     6852
+True   False    2869
+       True     2598
+dtype: int64"	0.6854908182150399	26	58
+modA0-875_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3939154327389956e-07	1.2666832916865352	"26     58   
+True   False    10923
+       True      6537
+False  False     1725
+       True       815
+dtype: int64"	2.5212940643857803e-07	26	58
+modA0-775_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0400514478959101e-69	1.8625098101889475	"26     58   
+True   True     10967
+       False     4566
+False  True      2516
+       False     1951
+dtype: int64"	8.988098932433791e-69	26	58
+modA0-575_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0021369785695704497	1.331238955332208	"26     58   
+True   True     11203
+False  True      8312
+True   False      244
+False  False      241
+dtype: int64"	0.0029680257910700693	26	58
+modA0-775_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.403715078409044e-61	1.9778434530905025	"26     58   
+True   False    10994
+       True      4609
+False  False     3628
+       True       769
+dtype: int64"	7.078065112781e-60	26	58
+modA0-275_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.002597754048018745	1.1087820879248675	"26     58   
+False  True     9755
+       False    4906
+True   True     3673
+       False    1666
+dtype: int64"	0.003600847195273508	26	58
+modA0-975_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.668285431491773e-15	0.3543076889008876	"26     58   
+True   True     15040
+       False     4431
+False  True       479
+       False       50
+dtype: int64"	9.726514401682731e-15	26	58
+modA0-975_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.016392856539918847	0.7891317057614627	"26     58   
+True   False    14111
+       True      5399
+False  False      330
+       True       160
+dtype: int64"	0.021368714297845797	26	58
+modA0-275_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6574110248028617e-12	0.518206296738188	"26     58   
+False  True     14268
+True   True      5212
+False  False      305
+True   False      215
+dtype: int64"	3.829002367531363e-12	26	58
+modA0-975_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.763257304163798	0.8615636505079196	"26     58   
+True   True     19049
+       False      487
+False  True       454
+       False       10
+dtype: int64"	0.7903551966193174	26	58
+modA0-075_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.7419679658746473e-08	0.7101503190754376	"26     58   
+False  True     14389
+       False     4136
+True   True      1050
+       False      425
+dtype: int64"	5.244201027629107e-08	26	58
+modA0-775_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0978490328789379	0.9016017687136219	"26     58   
+True   False    14376
+False  False     4078
+True   True      1176
+False  True       370
+dtype: int64"	0.11870766553770629	26	58
+modA0-875_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.4969993264064917e-07	0.7543651435867005	"26     58   
+True   False    14652
+       True      3003
+False  False     1844
+       True       501
+dtype: int64"	6.104487602205846e-07	26	58
+modA0-175_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.140535420095837e-17	0.7192119375905457	"26     58   
+False  False    10134
+       True      6367
+True   False     2410
+       True      1089
+dtype: int64"	1.7193499176268344e-16	26	58
+modA0-275_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.0108392170359955e-28	1.4261827242597953	"26     58   
+False  False    9344
+       True     5111
+True   False    3115
+       True     2430
+dtype: int64"	1.6323182860030214e-27	26	58
+modA0-575_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.000894997794146525	0.8822802327211039	"26     58   
+True   False    9585
+False  False    6938
+True   True     1910
+False  True     1567
+dtype: int64"	0.001275964268640667	26	58
+modA0-375_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8846903673354424e-05	0.8761776220894292	"26     58   
+False  True     8440
+True   True     5014
+False  False    3901
+True   False    2645
+dtype: int64"	2.9915720116435592e-05	26	58
+modA0-275_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9707004067508308e-11	0.787057606701101	"26     58   
+False  False    10153
+       True      4256
+True   False     4204
+       True      1387
+dtype: int64"	4.4073172035961075e-11	26	58
+modA0-875_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.233024497372292e-63	0.4638278500317247	"26     58   
+True   True     9646
+       False    7898
+False  True     1780
+       False     676
+dtype: int64"	5.62568572017845e-62	26	58
+modA0-075_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.564149553170348e-24	0.5171205389611971	"26     58   
+False  False    13115
+       True      5353
+True   False     1265
+       True       267
+dtype: int64"	2.3685075707315688e-23	26	58
+modA0-875_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.440019844096774e-14	0.7007330651816294	"26     58   
+True   False    12767
+       True      4768
+False  False     1608
+       True       857
+dtype: int64"	3.705933422307874e-14	26	58
+modA0-075_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.743672167145007e-36	0.5042176586948883	"26     58   
+False  True     12669
+       False     5816
+True   True       793
+       False      722
+dtype: int64"	1.4660843641232861e-35	26	58
+modA0-275_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5770034550925403e-27	0.48631973560170055	"26     58   
+False  False    13258
+True   False     5175
+False  True      1317
+True   True       250
+dtype: int64"	6.308013820370161e-27	26	58
+modA0-875_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.854756719632129e-12	2.221083297367285	"26     58   
+True   True     17184
+False  True      2317
+True   False      384
+False  False      115
+dtype: int64"	1.773654743142739e-11	26	58
+modA0-575_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.1137450051999664e-80	0.4906992090427428	"26     58   
+True   False    10054
+False  False     6475
+       True      1970
+True   True      1501
+dtype: int64"	5.507110005599964e-79	26	58
+modA0-675_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5356247509211428e-06	1.1878586421104012	"26     58   
+True   True     10614
+False  True      4849
+True   False     2941
+False  False     1596
+dtype: int64"	2.577787351666187e-06	26	58
+modA0-175_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5093928638844808e-69	2.0035212008373042	"26     58   
+False  True     9054
+       False    7500
+True   True     2438
+       False    1008
+dtype: int64"	1.2885061033160201e-68	26	58
+modA0-475_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.187088466211728e-33	0.6935564962507491	"26     58   
+False  True     7557
+True   True     6088
+       False    3415
+False  False    2940
+dtype: int64"	1.5176611743865373e-32	26	58
+modA0-575_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.15682995911482445	1.041755437149944	"26     58   
+True   True     6611
+False  True     4855
+True   False    4835
+False  False    3699
+dtype: int64"	0.18702039417440736	26	58
+modA0-375_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.2165342923628565e-77	1.9825056546764421	"26     58   
+False  True     9181
+True   True     6357
+False  False    3307
+True   False    1155
+dtype: int64"	2.1853154995126755e-76	26	58
+modA0-375_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.9055263217505214e-129	0.48929862578969907	"26     58   
+False  True     7989
+       False    4520
+True   False    4017
+       True     3474
+dtype: int64"	3.1216985683866954e-127	26	58
+modA0-575_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.710389803207682e-131	0.4887984314394101	"26     58   
+True   False    5800
+       True     5740
+False  True     5663
+       False    2797
+dtype: int64"	1.4965910778067218e-129	26	58
+modA0-575_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.79764090929725e-115	1.9354898178159958	"26     58   
+True   True     7367
+False  False    4425
+       True     4112
+True   False    4096
+dtype: int64"	3.4291743182540375e-113	26	58
+modA0-175_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.743911038577483e-07	1.2713121222111263	"26     58   
+False  True     12766
+       False     3790
+True   True      2792
+       False      652
+dtype: int64"	4.825974188452859e-07	26	58
+modA0-475_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.4307547492067538e-105	0.49487285441830897	"26     58   
+True   False    7568
+False  False    6923
+       True     3575
+True   True     1934
+dtype: int64"	5.317276013889774e-104	26	58
+modA0-375_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.716814707969397e-24	1.3539088074965488	"26     58   
+False  False    8230
+       True     4356
+True   False    4319
+       True     3095
+dtype: int64"	3.435237523019484e-23	26	58
+modA0-475_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.005908212058396939	0.8600138806540808	"26     58   
+False  False    9655
+True   False    8890
+False  True      812
+True   True      643
+dtype: int64"	0.007984070349185052	26	58
+modA0-975_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8377090197081452e-12	1.9928718428437793	"26     58   
+True   True     15217
+       False     4276
+False  True       325
+       False      182
+dtype: int64"	4.231566821696387e-12	26	58
+modA0-575_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.694410170753222e-18	1.4444041648196453	"26     58   
+True   True     10209
+False  True      7273
+       False     1277
+True   False     1241
+dtype: int64"	2.4942979998062522e-17	26	58
+modA0-775_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0013383670253505923	1.1767312038317537	"26     58   
+True   True     13681
+False  True      3867
+True   False     1840
+False  False      612
+dtype: int64"	0.0018850239793670315	26	58
+modA0-575_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.9234387725557448	1.003184679158316	"26     58   
+True   False    8345
+False  False    6152
+True   True     3172
+False  True     2331
+dtype: int64"	0.9300822169626206	26	58
+modA0-575_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.120558797121444e-20	0.7298180969528046	"26     58   
+True   True     8565
+False  True     6854
+True   False    2892
+False  False    1689
+dtype: int64"	1.870913169425769e-19	26	58
+modA0-875_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.103423797588945e-31	1.9456245700601529	"26     58   
+True   True     15459
+       False     2023
+False  True      2007
+       False      511
+dtype: int64"	1.8531591343950077e-30	26	58
+modA0-075_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.011673815409228714	1.1804597314004586	"26     58   
+False  True     14138
+       False     4334
+True   True      1213
+       False      315
+dtype: int64"	0.015476649216780491	26	58
+modA0-475_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.83644096717857e-44	0.673905476160182	"26     58   
+False  True     5496
+True   False    5457
+False  False    5024
+True   True     4023
+dtype: int64"	5.197906451281512e-43	26	58
+modA0-475_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.853946712584452e-05	0.8621557853150745	"26     58   
+False  False    8604
+True   False    7932
+False  True     1930
+True   True     1534
+dtype: int64"	0.0001203011531468078	26	58
+modA0-975_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.017448107649374257	0.7865192132708057	"26     58   
+True   True     13220
+       False     6280
+False  True       364
+       False      136
+dtype: int64"	0.022701998800301076	26	58
+modA0-175_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0017932480175098218	0.8897896533613445	"26     58   
+False  True     9520
+       False    6922
+True   True     1958
+       False    1600
+dtype: int64"	0.0025105472245137506	26	58
+modA0-775_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.747339273055173e-06	1.1767046046593646	"26     58   
+True   False    8049
+       True     7442
+False  False    2525
+       True     1984
+dtype: int64"	2.9261662467431124e-06	26	58
+modA0-275_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.960327879006598e-24	0.7261907142766237	"26     58   
+False  True     7269
+       False    7234
+True   False    3178
+       True     2319
+dtype: int64"	3.503632922263627e-23	26	58
+modA0-375_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.2321236146306764e-10	0.8052588010866174	"26     58   
+False  True     9874
+True   True     5620
+False  False    2640
+True   False    1866
+dtype: int64"	8.843243373855144e-10	26	58
+modA0-975_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5340698398538449	0.940126150521162	"26     58   
+True   True     13237
+       False     6249
+False  True       356
+       False      158
+dtype: int64"	0.5796106789111496	26	58
+modA0-375_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4222772716487251e-21	1.4404460437414655	"26     58   
+False  False    10702
+True   False     5870
+False  True      1915
+True   True      1513
+dtype: int64"	4.587991198866855e-21	26	58
+modA0-775_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.655516505097923e-11	0.69503792995199	"26     58   
+True   True     13501
+False  True      3972
+True   False     2098
+False  False      429
+dtype: int64"	5.882473270786538e-11	26	58
+modA0-375_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0901083088791457e-14	0.7960956785841851	"26     58   
+False  True     7451
+       False    5044
+True   True     4056
+       False    3449
+dtype: int64"	2.8367130714327212e-14	26	58
+modA0-875_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.16944348435011738	0.9420819745663058	"26     58   
+True   True     9963
+       False    7499
+False  True     1485
+       False    1053
+dtype: int64"	0.2003554713599361	26	58
+modA0-875_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.17238865648016233	0.8972830058142522	"26     58   
+True   False    16283
+False  False     2246
+True   True      1275
+False  True       196
+dtype: int64"	0.20315161538066268	26	58
+modA0-175_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.482463702644033e-15	0.7422877290541499	"26     58   
+False  False    8454
+       True     8075
+True   False    2031
+       True     1440
+dtype: int64"	6.632536610117645e-15	26	58
+modA0-675_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0011280834329727347	1.214662691691815	"26     58   
+True   False    12490
+False  False     6051
+True   True      1043
+False  True       416
+dtype: int64"	0.0015984987916617698	26	58
+modA0-575_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.528276837850679e-137	0.4786737749873599	"26     58   
+True   False    8002
+False  False    4445
+       True     4057
+True   True     3496
+dtype: int64"	6.174484466238688e-135	26	58
+modA0-775_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.8446419354857868e-05	1.1645137832463657	"26     58   
+True   True     10721
+       False     4948
+False  True      2817
+       False     1514
+dtype: int64"	4.444753024196542e-05	26	58
+modA0-775_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.554037630623884e-27	0.6870272380590309	"26     58   
+True   True     8665
+       False    6916
+False  True     2854
+       False    1565
+dtype: int64"	3.75720580979591e-26	26	58
+modA0-075_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.012740824481495041	0.7569784474364587	"26     58   
+False  False    17077
+True   False     1427
+False  True      1407
+True   True        89
+dtype: int64"	0.016764242738809266	26	58
+modA0-175_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.1934996874437595	0.8623493639466335	"26     58   
+False  True     16115
+True   True      3373
+False  False      412
+True   False      100
+dtype: int64"	0.22612651287250693	26	58
+modA0-875_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0001375261013513966	0.8365058096070754	"26     58   
+True   True     11704
+       False     5846
+False  True      1728
+       False      722
+dtype: int64"	0.000206584272416261	26	58
+modA0-575_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5463118566161144e-15	1.2596441011364454	"26     58   
+True   True     6884
+       False    4637
+False  True     4587
+       False    3892
+dtype: int64"	4.1471965503114185e-15	26	58
+modA0-275_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.1356531855220404e-95	0.5028638037671362	"26     58   
+False  True     10499
+       False     4081
+True   True      3057
+       False     2363
+dtype: int64"	8.360365650849833e-94	26	58
+modA0-375_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.7693487260695603e-08	0.8479922833859342	"26     58   
+False  False    6366
+       True     6031
+True   False    4216
+       True     3387
+dtype: int64"	3.4213925642229066e-08	26	58
+modA0-575_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.397420425850175	0.9756790297750556	"26     58   
+True   False    6138
+       True     5438
+False  False    4415
+       True     4009
+dtype: int64"	0.4415782509446389	26	58
+modA0-075_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.10468420368454226	0.7731635289774824	"26     58   
+False  True     18060
+True   True      1420
+False  False      472
+True   False       48
+dtype: int64"	0.12678017747262904	26	58
+modA0-475_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.2535953484101559e-86	1.975864257009236	"26     58   
+True   True     7965
+False  True     7509
+       False    2945
+True   False    1581
+dtype: int64"	1.595484988885653e-85	26	58
+modA0-475_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.463543309273696e-50	1.91747891243845	"26     58   
+False  True     8775
+True   True     8684
+False  False    1676
+True   False     865
+dtype: int64"	1.5820920334785202e-49	26	58
+modA0-375_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.77050058734265	0.9913392949830196	"26     58   
+False  False    6490
+       True     5915
+True   False    3990
+       True     3605
+dtype: int64"	0.7966771213291802	26	58
+modA0-575_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3465364353459937e-45	0.5277481232353229	"26     58   
+True   True     9742
+False  True     7757
+True   False    1761
+False  False     740
+dtype: int64"	8.196308736888657e-45	26	58
+modA0-975_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0002831789289005563	1.4067507123591136	"26     58   
+True   True     13310
+       False     6184
+False  True       306
+       False      200
+dtype: int64"	0.0004164396013243474	26	58
+modA0-875_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.33555948905166455	1.1343590604123932	"26     58   
+True   True     17047
+False  True      2463
+True   False      421
+False  False       69
+dtype: int64"	0.3782474111693481	26	58
+modA0-375_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3840737928570283e-35	1.449183850036049	"26     58   
+False  True     6750
+       False    5787
+True   True     4689
+       False    2774
+dtype: int64"	7.123909227940587e-35	26	58
+modA0-475_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.542329600927339e-08	0.5922298815238726	"26     58   
+False  True     10356
+True   True      9153
+       False      294
+False  False      197
+dtype: int64"	2.998974224025382e-08	26	58
+modA0-375_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6035016660560997	0.9843778830186358	"26     58   
+False  True     7328
+       False    5280
+True   True     4268
+       False    3124
+dtype: int64"	0.6479312365632972	26	58
+modA0-875_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.3762960864235277e-13	1.4468218781141458	"26     58   
+True   False    12624
+       True      4898
+False  False     1954
+       True       524
+dtype: int64"	8.038800205770304e-13	26	58
+modA0-575_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8912542332266258	1.004856660879658	"26     58   
+True   True     8911
+False  True     6559
+True   False    2604
+False  False    1926
+dtype: int64"	0.9028624649184342	26	58
+modA0-075_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00693802612685092	0.8584317689015024	"26     58   
+False  False    11615
+       True      6888
+True   False      992
+       True       505
+dtype: int64"	0.009321724162755554	26	58
+modA0-175_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.414233359437529e-88	0.4646710655032396	"26     58   
+False  True     11757
+       False     4794
+True   True      1837
+       False     1612
+dtype: int64"	8.634544906935136e-87	26	58
+modA0-575_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.42967378987241756	0.9267363865487153	"26     58   
+True   True     11187
+False  True      8328
+True   False      287
+False  False      198
+dtype: int64"	0.47365614631605085	26	58
+modA0-775_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.038800154593252215	1.2433617673542614	"26     58   
+True   True     15074
+False  True      4433
+True   False      361
+False  False      132
+dtype: int64"	0.049025466092556945	26	58
+modA0-575_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6465277827743918e-13	0.5000875189446496	"26     58   
+True   True     11156
+False  True      8302
+True   False      395
+False  False      147
+dtype: int64"	3.988129577654236e-13	26	58
+modA0-475_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.539069353623743e-152	2.143258038985269	"26     58   
+True   True     6307
+False  False    5425
+       True     5195
+True   False    3073
+dtype: int64"	3.17734854753662e-149	26	58
+modA0-575_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.3011268495186946e-24	1.4147248978402005	"26     58   
+True   True     9247
+False  True     6327
+True   False    2249
+False  False    2177
+dtype: int64"	1.5599941941259514e-23	26	58
+modA0-975_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.005335751789408542	1.2909744486544252	"26     58   
+True   False    10293
+       True      9196
+False  False      302
+       True       209
+dtype: int64"	0.007224422152003828	26	58
+modA0-475_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.951667463437758e-06	1.1564155071910998	"26     58   
+False  False    7855
+True   False    6696
+False  True     2744
+True   True     2705
+dtype: int64"	8.125869601540493e-06	26	58
+modA0-275_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5816891924846226	1.0197473517718105	"26     58   
+False  False    10557
+       True      3986
+True   False     3940
+       True      1517
+dtype: int64"	0.6254722499834651	26	58
+modA0-475_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.1848807045494e-06	1.1833404558957983	"26     58   
+False  False    8743
+True   False    7665
+       True     1829
+False  True     1763
+dtype: int64"	8.479945077534067e-06	26	58
+modA0-775_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.4020302488325573e-22	1.3913261048819778	"26     58   
+True   False    7877
+       True     7593
+False  False    2676
+       True     1854
+dtype: int64"	1.1394359685085119e-21	26	58
+modA0-975_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00010552066895304127	0.5259858562583053	"26     58   
+True   True     17009
+       False     2504
+False  True       452
+       False       35
+dtype: int64"	0.00016057493101549758	26	58
+modA0-075_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9218076369344557e-30	1.9393020853819716	"26     58   
+False  True     10462
+       False     8073
+True   True      1048
+       False      417
+dtype: int64"	8.514337631988096e-30	26	58
+modA0-975_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.017754189548157717	0.7666738419369368	"26     58   
+True   False    16153
+       True      3333
+False  False      405
+       True       109
+dtype: int64"	0.02305738902358145	26	58
+modA0-875_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.429253675074313e-52	0.46498016843490714	"26     58   
+True   False    14667
+       True      2812
+False  False     1785
+       True       736
+dtype: int64"	2.308151512069249e-51	26	58
+modA0-175_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.3292170315201114e-70	2.218386112088625	"26     58   
+False  False    14033
+       True      2518
+True   False     2467
+       True       982
+dtype: int64"	2.913064902580098e-69	26	58
+modA0-975_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6216553184330647	0.9211822660098522	"26     58   
+True   True     17034
+       False     2505
+False  True       406
+       False       55
+dtype: int64"	0.6663992693769453	26	58
+modA0-475_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1366337304537189e-10	0.7566615137772633	"26     58   
+False  True     9435
+True   True     8118
+       False    1302
+False  False    1145
+dtype: int64"	2.448134188669548e-10	26	58
+modA0-475_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9535585438698308e-44	2.1825471652129833	"26     58   
+False  False    9919
+True   False    8634
+       True      948
+False  True      499
+dtype: int64"	1.1588906616176963e-43	26	58
+modA0-675_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2892403278358644	1.0346404226053436	"26     58   
+True   True     9081
+False  True     4478
+True   False    4265
+False  False    2176
+dtype: int64"	0.33029074956787124	26	58
+modA0-575_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6822809721038173e-08	0.8408817937113892	"26     58   
+True   True     7530
+False  True     6047
+True   False    3834
+False  False    2589
+dtype: int64"	3.262040666129286e-08	26	58
+modA0-675_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1296779649490751e-19	0.736288339617179	"26     58   
+True   False    10235
+False  False     4360
+True   True      3424
+False  True      1981
+dtype: int64"	3.438150328105881e-19	26	58
+modA0-675_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.751940137781128e-30	1.4123849571345237	"26     58   
+True   True     8135
+       False    5335
+False  True     3390
+       False    3140
+dtype: int64"	3.36533240374149e-29	26	58
+modA0-875_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.1364133465855785e-10	1.4610325130850006	"26     58   
+True   True     15391
+False  True      2116
+True   False     2076
+False  False      417
+dtype: int64"	6.673219886352295e-10	26	58
+modA0-075_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.785205058202421e-07	0.6690571516564741	"26     58   
+False  False    15207
+       True      3264
+True   False     1337
+       True       192
+dtype: int64"	3.196019285784385e-07	26	58
+modA0-975_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.885950745210085	1.0165144032921811	"26     58   
+True   True     19001
+       False      500
+False  True       486
+       False       13
+dtype: int64"	0.8987906110826949	26	58
+modA0-675_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.982958385322835e-08	0.8303105663465132	"26     58   
+True   False    9955
+False  False    4495
+True   True     3595
+False  True     1955
+dtype: int64"	5.689566402523119e-08	26	58
+modA0-175_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7486792117425032	0.9875371604495343	"26     58   
+False  True     9405
+       False    7123
+True   True     1965
+       False    1507
+dtype: int64"	0.7775600121954781	26	58
+modA0-975_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.014395497559088519	1.3799618424638866	"26     58   
+True   True     17105
+       False     2446
+False  True       375
+       False       74
+dtype: int64"	0.01880009009582456	26	58
+modA0-575_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0006848544190410514	0.8326176116381713	"26     58   
+True   False    10766
+False  False     7731
+True   True       807
+False  True       696
+dtype: int64"	0.0009823731420670818	26	58
+modA0-575_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9460122098258167e-91	1.9514706620832591	"26     58   
+True   False    7695
+False  False    6856
+True   True     3741
+False  True     1708
+dtype: int64"	2.8983160571873865e-90	26	58
+modA0-275_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.4244487844342825e-31	1.9308249525936	"26     58   
+False  False    13660
+True   False     4841
+False  True       890
+True   True       609
+dtype: int64"	1.1092249340549003e-30	26	58
+modA0-375_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.126538196438404e-116	1.9853061667225158	"26     58   
+False  False    8520
+       True     3941
+True   False    3930
+       True     3609
+dtype: int64"	3.160320409726046e-114	26	58
+modA0-775_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.9581466219742697	1.0023712161206904	"26     58   
+True   False    9718
+       True     5767
+False  False    2836
+       True     1679
+dtype: int64"	0.9622706389985493	26	58
+modA0-575_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8828042971261927	0.9952930548343807	"26     58   
+True   False    7112
+False  False    5371
+True   True     4274
+False  True     3243
+dtype: int64"	0.8968984150774091	26	58
+modA0-575_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.548288877127667e-36	2.032426466986122	"26     58   
+True   False    10399
+False  False     8066
+True   True      1111
+False  True       424
+dtype: int64"	4.987912099992065e-35	26	58
+modA0-775_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.197392092542461e-36	0.6547545237680621	"26     58   
+True   False    8511
+       True     6963
+False  True     2514
+       False    2012
+dtype: int64"	4.3144168908118215e-35	26	58
+modA0-375_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.975343348443758e-08	1.1735155109741466	"26     58   
+False  True     7121
+       False    5428
+True   True     4517
+       False    2934
+dtype: int64"	1.473018560398583e-07	26	58
+modA0-375_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0038919671610001755	1.1711555656876935	"26     58   
+False  False    11567
+True   False     6907
+False  True       898
+True   True       628
+dtype: int64"	0.005331461864383802	26	58
+modA0-175_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.820689356193184e-08	0.8126385446407943	"26     58   
+False  False    10226
+       True      6223
+True   False     2376
+       True      1175
+dtype: int64"	1.8043261284344434e-07	26	58
+modA0-375_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.9548714541361436e-51	0.5461650294779201	"26     58   
+False  False    9859
+True   False    6673
+False  True     2532
+True   True      936
+dtype: int64"	3.2415046896217764e-50	26	58
+modA0-075_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6465900113347192	1.0327023539920421	"26     58   
+False  False    15261
+       True      3236
+True   False     1233
+       True       270
+dtype: int64"	0.6855485764092322	26	58
+modA0-075_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.03874128019681748	1.1147380766506039	"26     58   
+False  False    9572
+       True     8839
+True   True      806
+       False     783
+dtype: int64"	0.049025466092556945	26	58
+modA0-075_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7962882892848153	1.0192458788702123	"26     58   
+False  True     14304
+       False     4222
+True   True      1143
+       False      331
+dtype: int64"	0.8197085330873098	26	58
+modA0-575_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.444544649078823e-11	0.7082710476961618	"26     58   
+True   False    10689
+False  False     7747
+       True       791
+True   True       773
+dtype: int64"	1.3966505431440176e-10	26	58
+modA0-475_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.423593182809884e-19	0.7398314533778406	"26     58   
+False  True     8416
+True   True     7049
+       False    2408
+False  False    2127
+dtype: int64"	1.622442405114068e-18	26	58
+modA0-375_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8710887485969792e-129	2.039799855159332	"26     58   
+False  False    7466
+       True     5032
+True   True     4343
+       False    3159
+dtype: int64"	1.3097621240178855e-127	26	58
+modA0-575_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.17653502898134255	0.9594491134785132	"26     58   
+True   True     7620
+False  True     5752
+True   False    3844
+False  False    2784
+dtype: int64"	0.2073397991391607	26	58
+modA0-675_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.7176131817580845e-21	1.383939445926322	"26     58   
+True   False    9423
+False  False    5030
+True   True     4003
+False  True     1544
+dtype: int64"	8.646951032866632e-21	26	58
+modA0-775_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.004464821457638598	0.8895483350832458	"26     58   
+True   True     11886
+       False     3616
+False  True      3540
+       False      958
+dtype: int64"	0.006068689359897123	26	58
+modA0-875_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.5329322525508273e-64	2.063565757309871	"26     58   
+True   True     10499
+       False     6966
+False  False     1465
+       True      1070
+dtype: int64"	2.0148324736199762e-63	26	58
+modA0-475_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.10676297661590202	0.9498003022026021	"26     58   
+False  False    7565
+True   False    6882
+False  True     2979
+True   True     2574
+dtype: int64"	0.1288518683295369	26	58
+modA0-175_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.713872796502582e-78	0.4865212377309463	"26     58   
+False  True     8415
+       False    8156
+True   False    2283
+       True     1146
+dtype: int64"	6.713872796502582e-77	26	58
+modA0-875_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.956780456939701e-06	0.8205999105552212	"26     58   
+True   False    9387
+       True     8171
+False  True     1257
+       False    1185
+dtype: int64"	8.125869601540493e-06	26	58
+modA0-975_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.003268133185741161	0.7639722332498735	"26     58   
+True   False    10186
+       True      9311
+False  True       274
+       False      229
+dtype: int64"	0.0044948124270242215	26	58
+modA0-775_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.3399928569441532e-07	1.218975467009176	"26     58   
+True   False    11021
+       True      4355
+False  False     3492
+       True      1132
+dtype: int64"	4.1259319895740735e-07	26	58
+modA0-175_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3163379140824904e-08	0.5507168021590877	"26     58   
+False  True     16135
+True   True      3350
+False  False      374
+True   False      141
+dtype: int64"	2.5666755984895354e-08	26	58
+modA0-575_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.069062347968447e-10	0.8348733196837593	"26     58   
+True   True     6365
+       False    5114
+False  True     5100
+       False    3421
+dtype: int64"	1.0560546558267598e-09	26	58
+modA0-075_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.230110900641901e-09	0.44056284846778976	"26     58   
+False  True     18052
+True   True      1475
+False  False      399
+True   False       74
+dtype: int64"	1.0312894733660087e-08	26	58
+modA0-375_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.159238459313462e-102	2.0003368959877097	"26     58   
+False  False    9691
+True   False    4794
+False  True     2772
+True   True     2743
+dtype: int64"	2.1354392671563776e-101	26	58
+modA0-975_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.1503849991654819	1.4282004175365344	"26     58   
+True   True     19003
+False  True       500
+True   False      479
+False  False       18
+dtype: int64"	0.17964078398607053	26	58
+modA0-675_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.537799417558678e-12	0.8074253235607801	"26     58   
+True   False    8706
+       True     4860
+False  False    3804
+       True     2630
+dtype: int64"	1.4810548842365937e-11	26	58
+modA0-575_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.899627139006395e-08	1.3464663193396411	"26     58   
+True   False    10525
+False  False     7966
+True   True       966
+False  True       543
+dtype: int64"	1.2879303992811937e-07	26	58
+modA0-775_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.937675835292873e-08	1.4562371388165556	"26     58   
+True   False    14238
+False  False     4301
+True   True      1210
+False  True       251
+dtype: int64"	1.1173045926626373e-07	26	58
+modA0-875_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.0245704593336914e-07	0.38695068159953533	"26     58   
+True   True     17054
+False  True      2476
+True   False      445
+False  False       25
+dtype: int64"	3.596952592724833e-07	26	58
+modA0-575_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00013718576895198982	1.1199670650937281	"26     58   
+True   False    7026
+False  False    5556
+True   True     4348
+False  True     3070
+dtype: int64"	0.00020651621132557608	26	58
+modA0-075_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.001938019957214382	0.8275216045380556	"26     58   
+False  False    13199
+       True      5266
+True   False     1154
+       True       381
+dtype: int64"	0.0027078123154691963	26	58
+modA0-075_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.019649846390573586	1.1492338441039307	"26     58   
+False  False    13455
+       True      5073
+True   False     1027
+       True       445
+dtype: int64"	0.02542493987689743	26	58
+modA0-675_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.84715166048819e-102	0.4946153136117811	"26     58   
+True   False    10312
+False  False     4083
+True   True      3113
+False  True      2492
+dtype: int64"	5.110272211132649e-101	26	58
+modA0-175_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.2460346218630127e-11	0.700226421350192	"26     58   
+False  True     14573
+True   True      2981
+False  False     1893
+True   False      553
+dtype: int64"	7.145359230516066e-11	26	58
+modA0-075_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.978963954343825e-06	0.5677271671698239	"26     58   
+False  False    17113
+True   False     1419
+False  True      1402
+True   True        66
+dtype: int64"	4.953146717436289e-06	26	58
+modA0-475_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.3267215597035482e-08	1.2105339849411885	"26     58   
+False  True     7996
+True   True     7556
+False  False    2498
+True   False    1950
+dtype: int64"	4.4867908864806715e-08	26	58
+modA0-975_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.0183957400624498e-05	1.4813649448202924	"26     58   
+True   True     11124
+       False     8387
+False  False      258
+       True       231
+dtype: int64"	3.1893386411822e-05	26	58
+modA0-175_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.32054936048691424	1.0386713430969876	"26     58   
+False  False    10296
+       True      6153
+True   False     2191
+       True      1360
+dtype: int64"	0.36249523803043615	26	58
+modA0-175_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.1258765276571895e-12	1.382965612753273	"26     58   
+False  True     12559
+       False     3863
+True   True      2927
+       False      651
+dtype: int64"	4.8631162397386684e-12	26	58
+modA0-775_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.5891400723885367e-13	2.0558849436339277	"26     58   
+True   True     15095
+False  True      4415
+True   False      306
+False  False      184
+dtype: int64"	6.206842639287588e-13	26	58
+modA0-075_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5523715340345114	0.9634814877287678	"26     58   
+False  False    13524
+       True      4899
+True   False     1169
+       True       408
+dtype: int64"	0.5966976447903674	26	58
+modA0-975_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.07982799661528094	1.2051184044241967	"26     58   
+True   False    14166
+       True      5316
+False  False      395
+       True       123
+dtype: int64"	0.09735121538448895	26	58
+modA0-675_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6958336485614606e-117	2.0278129085960965	"26     58   
+True   True     7181
+       False    6308
+False  False    4170
+       True     2341
+dtype: int64"	6.982844435253073e-116	26	58
+modA0-675_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.15931628874116732	0.9222245984884233	"26     58   
+True   False    12623
+False  False     5867
+True   True      1004
+False  True       506
+dtype: int64"	0.1893402412883143	26	58
+modA0-975_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.028130347357781794	0.7700288243350982	"26     58   
+True   True     15067
+       False     4447
+False  True       396
+       False       90
+dtype: int64"	0.035932925457020544	26	58
+modA0-775_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.160065654254063e-34	0.49627321789782025	"26     58   
+True   True     13317
+False  True      4245
+True   False     2105
+False  False      333
+dtype: int64"	2.5617347219701024e-33	26	58
+modA0-775_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.692270940075399e-17	1.4866627039360252	"26     58   
+True   False    12598
+False  False     3934
+True   True      2866
+False  True       602
+dtype: int64"	1.0506462024604793e-16	26	58
+modA0-375_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.722378834085917e-08	0.8084618828275855	"26     58   
+False  False    10214
+True   False     6232
+False  True      2380
+True   True      1174
+dtype: int64"	8.910148743558334e-08	26	58
+modA0-175_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.8394909348650032e-11	1.4971109782825265	"26     58   
+False  True     14340
+True   True      3128
+False  False     2210
+True   False      322
+dtype: int64"	6.270169256799691e-11	26	58
+modA0-675_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.8471236529436696e-16	2.1248875465878423	"26     58   
+True   True     13227
+False  True      6275
+       False      250
+True   False      248
+dtype: int64"	7.785103738517847e-16	26	58
+modA0-375_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4727792585019541e-80	2.036305613446785	"26     58   
+False  False    10760
+True   False     5678
+       True      1845
+False  True      1717
+dtype: int64"	1.6108523139865124e-79	26	58
+modA0-975_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.37105793893688194	0.9219787343203246	"26     58   
+True   False    10252
+       True      9234
+False  False      260
+       True       254
+dtype: int64"	0.4142592619710006	26	58
+modA0-375_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.596723039269287e-36	1.4836777189585844	"26     58   
+False  True     7925
+True   True     5472
+False  False    4506
+True   False    2097
+dtype: int64"	2.437656157188258e-35	26	58
+modA0-175_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.754806223008622e-10	2.482145305003427	"26     58   
+False  True     16049
+True   True      3449
+False  False      462
+True   False       40
+dtype: int64"	1.8077770961964706e-09	26	58
+modA0-775_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2739334971590317	0.8777298763803267	"26     58   
+True   True     15115
+False  True      4393
+True   False      392
+False  False      100
+dtype: int64"	0.31434991477265933	26	58
+modA0-475_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.23847506197436835	1.0527055704870398	"26     58   
+False  True     9158
+True   True     8349
+False  False    1336
+True   False    1157
+dtype: int64"	0.2759215593091865	26	58
+modA0-175_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.5605174800799382e-62	1.8637041572778894	"26     58   
+False  False    9026
+       True     7429
+True   True     2146
+       False    1399
+dtype: int64"	1.9696288308307216e-61	26	58
+modA0-075_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.409183875641968e-24	2.119926078679227	"26     58   
+False  True     14292
+       False     4219
+True   True      1307
+       False      182
+dtype: int64"	3.3433648289083135e-23	26	58
+modA0-375_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.374614617471567e-06	1.1896270042423285	"26     58   
+False  False    10520
+True   False     6029
+False  True      2052
+True   True      1399
+dtype: int64"	1.0401469072797429e-05	26	58
+modA0-675_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.43952358949784e-06	1.158149227376839	"26     58   
+True   False    8401
+       True     5182
+False  False    4187
+       True     2230
+dtype: int64"	5.691883008625267e-06	26	58
+modA0-175_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.037171658766493e-14	1.3591750423989608	"26     58   
+False  False    12143
+       True      4277
+True   False     2421
+       True      1159
+dtype: int64"	7.702971598320816e-14	26	58
+modA0-775_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.6762137166043055e-22	0.6943296842552347	"26     58   
+True   True     10254
+       False     5369
+False  True      3210
+       False     1167
+dtype: int64"	9.006488469341412e-22	26	58
+modA0-875_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2801364579586645	0.8517186304522693	"26     58   
+True   True     17036
+False  True      2451
+True   False      457
+False  False       56
+dtype: int64"	0.32041751727298223	26	58
+modA0-375_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6006228661206712e-21	1.36465609129099	"26     58   
+False  False    9463
+True   False    5125
+False  True     3112
+True   True     2300
+dtype: int64"	5.139614707726926e-21	26	58
+modA0-675_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.0395822027139447e-14	0.7450512508117397	"26     58   
+True   False    11368
+False  False     5130
+True   True      2181
+False  True      1321
+dtype: int64"	1.2689595474459574e-13	26	58
+modA0-575_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9563934892351832e-33	0.7081398330041923	"26     58   
+True   False    6414
+       True     4990
+False  True     4500
+       False    4096
+dtype: int64"	9.379968784004303e-33	26	58
+modA0-175_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8552699451451762e-41	1.9287324370316914	"26     58   
+False  True     12471
+       False     3976
+True   True      3049
+       False      504
+dtype: int64"	1.055844684228962e-40	26	58
+modA0-675_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3073708788311872e-91	2.0432924131874834	"26     58   
+True   True     11108
+False  True      4407
+True   False     2477
+False  False     2008
+dtype: int64"	1.989477424308328e-90	26	58
+modA0-875_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.2886139362364043e-23	0.491523985540096	"26     58   
+True   False    16335
+False  False     2191
+True   True      1158
+False  True       316
+dtype: int64"	7.970297290375538e-23	26	58
+modA0-375_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.882260676218648e-26	0.692623168200179	"26     58   
+False  True     10012
+True   True      5517
+False  False     2490
+True   False     1981
+dtype: int64"	1.1208791518628077e-25	26	58
+modA0-375_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0027812249979955917	1.3259382341482995	"26     58   
+False  True     12101
+True   True      7365
+False  False      366
+True   False      168
+dtype: int64"	0.0038399556185343474	26	58
+modA0-875_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6714714804281218	0.9764409389435315	"26     58   
+True   False    14465
+       True      3072
+False  False     2023
+       True       440
+dtype: int64"	0.7046927080954801	26	58
+modA0-775_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.0886937387281206e-22	1.467990596547738	"26     58   
+True   False    10999
+       True      4521
+False  False     3500
+       True       980
+dtype: int64"	7.132124961510655e-22	26	58
+modA0-275_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.2821543137666243e-12	1.5135148637416662	"26     58   
+False  False    13639
+True   False     4944
+False  True       915
+True   True       502
+dtype: int64"	5.20360918448416e-12	26	58
+modA0-375_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.694218619176311e-14	1.2531600665998714	"26     58   
+False  False    8090
+       True     4453
+True   False    4413
+       True     3044
+dtype: int64"	1.6675989442787964e-13	26	58
+modA0-875_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.509161259698511e-22	0.4915106234006123	"26     58   
+True   True     15066
+       False     2399
+False  True      2351
+       False      184
+dtype: int64"	1.495930275729364e-21	26	58
+modA0-475_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3607837231593006e-07	0.8455729774437706	"26     58   
+False  False    7380
+True   False    7147
+False  True     3009
+True   True     2464
+dtype: int64"	2.467742503138628e-07	26	58
+modA0-675_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.509074161455994e-46	0.4959353432333105	"26     58   
+True   True     11458
+False  True      6051
+True   False     1974
+False  False      517
+dtype: int64"	5.943171350909996e-45	26	58
+modA0-375_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.217591925437572e-16	0.6993534071801273	"26     58   
+False  True     11055
+True   True      6413
+False  False     1384
+True   False     1148
+dtype: int64"	3.3555682984500017e-16	26	58
+modA0-075_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4898459771344926e-28	1.9978480821101743	"26     58   
+False  True     12266
+       False     6223
+True   True      1205
+       False      306
+dtype: int64"	6.170959668604407e-28	26	58
+modA0-275_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.4932966166642646	1.0230605582904289	"26     58   
+False  False    9041
+       True     5425
+True   False    3429
+       True     2105
+dtype: int64"	0.5379885268235438	26	58
+modA0-475_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.2219195819289694e-15	1.284382006001621	"26     58   
+False  False    7854
+True   False    6641
+       True     2866
+False  True     2639
+dtype: int64"	8.575451358746306e-15	26	58
+modA0-275_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2049592494657059	0.8792678118839763	"26     58   
+False  True     14204
+True   True      5292
+False  False      354
+True   False      150
+dtype: int64"	0.23832470868105338	26	58
+modA0-375_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.030966224859316e-09	1.203014258011889	"26     58   
+False  True     8108
+True   True     5267
+False  False    4302
+True   False    2323
+dtype: int64"	6.04466198689892e-09	26	58
+modA0-475_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.459717301801596e-10	0.8352862162698632	"26     58   
+False  True     6279
+True   True     5246
+       False    4238
+False  False    4237
+dtype: int64"	7.272679012796148e-10	26	58
+modA0-675_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.006658927542355937	0.8814906468662538	"26     58   
+True   True     11852
+False  True      5606
+True   False     1794
+False  False      748
+dtype: int64"	0.008963940922402222	26	58
+modA0-175_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6681675442199946	0.9839505031407125	"26     58   
+False  False    8618
+       True     7887
+True   False    1839
+       True     1656
+dtype: int64"	0.7024143566870179	26	58
+modA0-875_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00010285066928671625	0.843424112505924	"26     58   
+True   False    11065
+       True      6420
+False  False     1490
+       True      1025
+dtype: int64"	0.00015685287255054765	26	58
+modA0-575_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.009540050326515753	1.1030471925517211	"26     58   
+True   False    9385
+False  False    7100
+True   True     2085
+False  True     1430
+dtype: int64"	0.012695884464944919	26	58
+modA0-675_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.4395340106552624e-101	1.96707154441671	"26     58   
+True   True     9741
+False  True     3736
+True   False    3718
+False  False    2805
+dtype: int64"	4.269184518646709e-100	26	58
+modA0-075_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.02737586743567858	1.2179596905195293	"26     58   
+False  True     16234
+       False     2338
+True   True      1277
+       False      151
+dtype: int64"	0.03509726594317767	26	58
+modA0-475_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.103479109102095e-74	1.9783986736199775	"26     58   
+False  False    9078
+True   False    7394
+       True     2177
+False  True     1351
+dtype: int64"	6.457708281001904e-73	26	58
+modA0-675_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.409563248326977e-06	0.8497831713219911	"26     58   
+True   True     10324
+False  True      5136
+True   False     3191
+False  False     1349
+dtype: int64"	1.3595136891059778e-05	26	58
+modA0-175_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.676917761888215e-05	1.1783165191622587	"26     58   
+False  False    10419
+       True      6078
+True   False     2076
+       True      1427
+dtype: int64"	2.6861382913541196e-05	26	58
+modA0-175_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.054560442279816e-09	1.2512868568176896	"26     58   
+False  True     9317
+       False    7116
+True   True     2215
+       False    1352
+dtype: int64"	6.074409970442815e-09	26	58
+modA0-075_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0682621502707762e-07	0.7416387094846768	"26     58   
+False  True     12596
+       False     5925
+True   True       905
+       False      574
+dtype: int64"	1.952437350364343e-07	26	58
+modA0-475_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.5981628204422244e-08	0.7392826176777192	"26     58   
+False  False    9571
+True   False    8927
+False  True      889
+True   True      613
+dtype: int64"	4.982778011807006e-08	26	58
+modA0-375_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.4277883328743609	1.0287639424331012	"26     58   
+False  True     9742
+True   True     5843
+False  False    2789
+True   False    1626
+dtype: int64"	0.4730676666857072	26	58
+modA0-475_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.860994255170204e-138	0.46762144611601814	"26     58   
+False  True     7870
+True   True     5589
+       False    3944
+False  False    2597
+dtype: int64"	2.3008986595397142e-135	26	58
+modA0-675_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1856327993596525e-129	0.46998163523589387	"26     58   
+True   True     6842
+       False    6607
+False  True     4506
+       False    2045
+dtype: int64"	9.221588439463964e-128	26	58
+modA0-575_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.62588959636022	1.0211988304093567	"26     58   
+True   True     10033
+False  True      7344
+True   False     1501
+False  False     1122
+dtype: int64"	0.6688896449651206	26	58
+modA0-275_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0	1.0003722771349497	"26     58   
+False  True     9818
+       False    4704
+True   True     3704
+       False    1774
+dtype: int64"	1.0	26	58
+modA0-275_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.7340205853524317e-10	2.1208471428907223	"26     58   
+False  True     14181
+True   True      5320
+False  False      424
+True   False       75
+dtype: int64"	3.7119706720082634e-10	26	58
+modA0-475_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.08914410294485295	1.0971646599991924	"26     58   
+False  False    9704
+True   False    8809
+False  True      745
+True   True      742
+dtype: int64"	0.10852325575895141	26	58
+modA0-475_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.437205251095175e-133	2.120911152074116	"26     58   
+True   True     7269
+False  True     6185
+       False    4212
+True   False    2334
+dtype: int64"	7.437205251095175e-131	26	58
+modA0-175_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.712682450801094e-79	2.022427075313021	"26     58   
+False  False    10701
+       True      5737
+True   True      1853
+       False     1709
+dtype: int64"	3.9376935084254025e-78	26	58
+modA0-675_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.010201711197575965	0.7705971823529284	"26     58   
+True   True     13252
+False  True      6245
+True   False      369
+False  False      134
+dtype: int64"	0.013550660034730882	26	58
+modA0-075_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1065972449571102e-32	0.5141618944435846	"26     58   
+False  False    9513
+       True     9009
+True   False     994
+       True      484
+dtype: int64"	5.129921003112431e-32	26	58
+modA0-075_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.02783677341021233	1.1295281742605787	"26     58   
+False  True     10659
+       False     7837
+True   True       911
+       False      593
+dtype: int64"	0.03562292758162455	26	58
+modA0-975_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.06292342293420422	0.8421424271365655	"26     58   
+True   False    10236
+       True      9264
+False  True       259
+       False      241
+dtype: int64"	0.07754647192595591	26	58
+modA0-875_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.593282629604411e-52	0.5164090151988341	"26     58   
+True   False    9606
+       True     7937
+False  True     1512
+       False     945
+dtype: int64"	3.7288550864029407e-51	26	58
+modA0-075_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0059954627154072e-06	1.3831672550278133	"26     58   
+False  False    15347
+       True      3116
+True   False     1200
+       True       337
+dtype: int64"	1.7133742673985037e-06	26	58
+modA0-775_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.02848074133818112	0.9062671235818024	"26     58   
+True   False    12937
+False  False     3654
+True   True      2599
+False  True       810
+dtype: int64"	0.03631424214340034	26	58
+modA0-475_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.347886161590045e-105	0.5257808109193095	"26     58   
+True   False    6678
+False  False    5754
+       True     4700
+True   True     2868
+dtype: int64"	5.3016784293968757e-104	26	58
+modA0-375_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.944063333383657e-05	0.8297221068319747	"26     58   
+False  True     10987
+True   True      6500
+False  False     1467
+True   False     1046
+dtype: int64"	3.0788333334130315e-05	26	58
+modA0-175_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.7672933811583324e-10	1.35324994502754	"26     58   
+False  False    13807
+       True      2740
+True   False     2722
+       True       731
+dtype: int64"	3.771662703691563e-10	26	58
+modA0-475_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.932822344444352e-09	1.1839919405868886	"26     58   
+False  True     5836
+True   True     5663
+False  False    4672
+True   False    3829
+dtype: int64"	7.798797850172935e-09	26	58
+modA0-275_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8374979993429452	0.979660753190165	"26     58   
+False  True     14175
+True   True      5335
+False  False      354
+True   False      136
+dtype: int64"	0.8570885958188036	26	58
+modA0-575_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.222935444426377e-26	0.7151011322485322	"26     58   
+True   False    8722
+False  False    5757
+True   True     2871
+False  True     2650
+dtype: int64"	3.145385142676756e-25	26	58
+modA0-675_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.0001757353093105e-19	0.7485530892491211	"26     58   
+True   True     8781
+False  True     4792
+True   False    4563
+False  False    1864
+dtype: int64"	2.0851587296666033e-18	26	58
+modA0-275_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6563844622314216	1.0277053519222255	"26     58   
+False  False    13406
+True   False     5045
+False  True      1117
+True   True       432
+dtype: int64"	0.6940621201842826	26	58
+modA0-975_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00020456982741598752	1.4448882091985693	"26     58   
+True   True     15099
+       False     4361
+False  True       381
+       False      159
+dtype: int64"	0.0003040315906394719	26	58
+modA0-775_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.272577532296895e-14	0.7218715465732641	"26     58   
+True   True     11844
+False  True      3682
+True   False     3654
+False  False      820
+dtype: int64"	3.299275083732691e-14	26	58
+modA0-975_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2978691616460524	1.144582299421009	"26     58   
+True   True     17094
+       False     2418
+False  True       420
+       False       68
+dtype: int64"	0.3384876836886959	26	58
+modA0-675_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.2387346145459632e-67	1.8563470093156402	"26     58   
+True   False    9398
+False  False    5209
+True   True     4153
+False  True     1240
+dtype: int64"	1.8436638002143226e-66	26	58
+modA0-075_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.36298974384977e-11	0.6836882896546406	"26     58   
+False  False    11424
+       True      7073
+True   False     1056
+       True       447
+dtype: int64"	7.379601318792599e-11	26	58
+modA0-475_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.012363047018066817	1.2532049411535844	"26     58   
+False  True     10281
+True   True      9203
+False  False      301
+True   False      215
+dtype: int64"	0.016297802095379985	26	58
+modA0-175_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1972376871289608e-12	0.6930399749101348	"26     58   
+False  False    13410
+True   False     3075
+False  True      3033
+True   True       482
+dtype: int64"	2.7935546033009084e-12	26	58
+modA0-975_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.04853567027807215	0.41989715364328367	"26     58   
+True   True     19042
+False  True       494
+True   False      459
+False  False        5
+dtype: int64"	0.06066958784759019	26	58
+modA0-775_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4091652422887695e-87	0.5055491596266002	"26     58   
+True   False    10205
+       True      5306
+False  True      2276
+       False     2213
+dtype: int64"	1.861161640758752e-86	26	58
+modA0-075_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.12202961826623727	1.095753627003627	"26     58   
+False  True     12432
+       False     6069
+True   True      1037
+       False      462
+dtype: int64"	0.14626837805884604	26	58
+modA0-475_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.39838492223456e-15	1.4003316299858852	"26     58   
+False  True     8880
+True   True     8589
+False  False    1497
+True   False    1034
+dtype: int64"	1.1574697163775157e-14	26	58
+modA0-775_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.906793751255965e-11	0.6711456582367037	"26     58   
+True   False    14524
+False  False     3974
+True   True      1067
+False  True       435
+dtype: int64"	1.4922085265059185e-10	26	58
+modA0-775_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.769019243677623e-16	0.7044448681706225	"26     58   
+True   False    12992
+False  False     3531
+True   True      2509
+False  True       968
+dtype: int64"	1.0265811169549945e-15	26	58
+modA0-275_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0691515366374371e-111	0.4832068257079784	"26     58   
+False  True     7595
+       False    6933
+True   False    3578
+       True     1894
+dtype: int64"	3.118358648525858e-110	26	58
+modA0-375_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8287603613408119	0.9872389568399331	"26     58   
+False  False    11482
+True   False     6936
+False  True       991
+True   True       591
+dtype: int64"	0.8504081709567155	26	58
+modA0-675_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.3755671340122807e-59	1.9922614486753891	"26     58   
+True   False    10706
+False  False     5791
+True   True      2755
+False  True       748
+dtype: int64"	2.513720206179358e-58	26	58
+modA0-275_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.2150344665070666e-45	2.130010729158458	"26     58   
+False  True     12435
+True   True      5100
+False  False     2067
+True   False      398
+dtype: int64"	2.543555281512885e-44	26	58
+modA0-375_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.20856296341683e-07	0.8381564914156778	"26     58   
+False  False    9032
+True   False    5644
+False  True     3494
+True   True     1830
+dtype: int64"	2.2031095687285964e-07	26	58
+modA0-975_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.384454623816812e-15	0.48880654309199006	"26     58   
+True   False    12259
+       True      7244
+False  True       272
+       False      225
+dtype: int64"	1.4116547702890518e-14	26	58
+modA0-375_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7570765336892386	1.0125117000600559	"26     58   
+False  False    10325
+True   False     6236
+False  True      2134
+True   True      1305
+dtype: int64"	0.7851164053073585	26	58
+modA0-375_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.5599874219527176e-34	0.4791503470252965	"26     58   
+False  False    11454
+True   False     7059
+False  True      1148
+True   True       339
+dtype: int64"	2.7216721645922393e-33	26	58
+modA0-475_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.2172154161367474e-08	1.1830866612620075	"26     58   
+False  True     6913
+True   True     6639
+False  False    3559
+True   False    2889
+dtype: int64"	6.11970323721664e-08	26	58
+modA0-275_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.497592872001468e-05	1.559462403621702	"26     58   
+False  True     14137
+True   True      5351
+False  False      412
+True   False      100
+dtype: int64"	6.965298695577495e-05	26	58
+modA0-875_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.3579079879592882e-05	1.1992998686625935	"26     58   
+True   False    9075
+       True     8408
+False  False    1420
+       True     1097
+dtype: int64"	3.711113781877848e-05	26	58
+modA0-575_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.0230725941313297e-52	1.911926180221537	"26     58   
+True   True     10486
+False  True      6963
+       False     1427
+True   False     1124
+dtype: int64"	2.0545153552348845e-51	26	58
+modA0-075_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.228154226810662e-36	0.4780972902482366	"26     58   
+False  False    11210
+       True      7213
+True   False     1206
+       True       371
+dtype: int64"	6.664402781143128e-36	26	58
+modA0-875_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00020348595011740066	1.1705340208629682	"26     58   
+True   True     10047
+       False     7344
+False  True      1406
+       False     1203
+dtype: int64"	0.0003030641810259159	26	58
+modA0-275_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.8693739902495457e-97	1.974978931421167	"26     58   
+False  False    9836
+       True     4774
+True   False    2752
+       True     2638
+dtype: int64"	4.898931202865078e-96	26	58
+modA0-475_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5506426837891336	0.9793333248181109	"26     58   
+False  True     8118
+True   True     7459
+False  False    2282
+True   False    2141
+dtype: int64"	0.5957494260469761	26	58
+modA0-275_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.192628160792512e-07	0.7898867717989942	"26     58   
+False  True     12710
+True   True      4802
+False  False     1683
+True   False      805
+dtype: int64"	7.282480676314537e-07	26	58
+modA0-575_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.626648029170401e-08	1.1786322448516229	"26     58   
+True   True     7974
+False  True     5601
+True   False    3515
+False  False    2910
+dtype: int64"	1.4123422276241482e-07	26	58
+modA0-675_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.314191140581891e-64	0.5224458723802774	"26     58   
+True   False    11558
+False  False     4979
+True   True      1898
+False  True      1565
+dtype: int64"	6.539251458884634e-63	26	58
+modA0-575_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.818439280802107e-05	0.6620763227671319	"26     58   
+True   True     11148
+False  True      8367
+True   False      324
+False  False      161
+dtype: int64"	2.8995614955842253e-05	26	58
+modA0-675_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4313182372650206e-09	0.8203193234594145	"26     58   
+True   True     8988
+       False    4596
+False  True     4520
+       False    1896
+dtype: int64"	2.9210576270714707e-09	26	58
+modA0-075_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6473537271521463	0.9462804644634426	"26     58   
+False  False    17098
+       True      1411
+True   False     1383
+       True       108
+dtype: int64"	0.6855485764092322	26	58
+modA0-975_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.012969117155926923	1.8090036798249596	"26     58   
+True   True     19016
+       False      491
+False  True       471
+       False       22
+dtype: int64"	0.01703261164943498	26	58
+modA0-175_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.726004969703768e-07	0.6942174860804706	"26     58   
+False  False    15033
+True   False     3420
+False  True      1336
+True   True       211
+dtype: int64"	1.4971086957825093e-06	26	58
+modA0-475_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3900127024482358e-30	1.4011147071237862	"26     58   
+False  False    6954
+True   False    5632
+       True     3941
+False  True     3473
+dtype: int64"	6.1975088644188856e-30	26	58
+modA0-175_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.4653956440886165e-52	1.9149075968196463	"26     58   
+False  True     10847
+       False     5731
+True   True      2682
+       False      740
+dtype: int64"	4.269600897039652e-51	26	58
+modA0-375_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8698181786495113	1.0057261451684438	"26     58   
+False  False    9087
+True   False    5453
+False  True     3405
+True   True     2055
+dtype: int64"	0.8849894259515376	26	58
+modA0-775_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.723072496787248e-54	2.087995239652372	"26     58   
+True   True     13907
+False  True      3619
+True   False     1603
+False  False      871
+dtype: int64"	1.8872779680703699e-53	26	58
+modA0-075_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.43276191436442824	0.8798334324806663	"26     58   
+False  True     18040
+True   True      1479
+False  False      440
+True   False       41
+dtype: int64"	0.47556254325761343	26	58
+modA0-975_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8566524540039673e-12	0.4632394166610189	"26     58   
+True   True     13076
+       False     6428
+False  True       404
+       False       92
+dtype: int64"	4.261169566566482e-12	26	58
+modA0-075_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4970580746558052e-25	0.4839198345923151	"26     58   
+False  True     16283
+       False     2149
+True   True      1232
+       False      336
+dtype: int64"	5.695329631842737e-25	26	58
+modA0-275_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.002099545261491151	1.1625478167362984	"26     58   
+False  True     12606
+True   True      4867
+False  False     1897
+True   False      630
+dtype: int64"	0.002921832371856473	26	58
+modA0-775_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4839678708247075e-06	1.209244900165361	"26     58   
+True   True     12020
+       False     3471
+False  True      3342
+       False     1167
+dtype: int64"	2.4970613210992676e-06	26	58
+modA0-275_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0060809157535554e-20	0.7128803076626573	"26     58   
+False  False    10172
+       True      4328
+True   False     4220
+       True      1280
+dtype: int64"	3.1440028617298605e-20	26	58
+modA0-375_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.6116035586347094e-113	0.5110164171590967	"26     58   
+False  True     6783
+       False    5835
+True   False    4631
+       True     2751
+dtype: int64"	8.705345195449032e-112	26	58
+modA0-375_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4828891661783683e-42	2.0953093919106793	"26     58   
+False  False    11823
+True   False     6679
+       True       812
+False  True       686
+dtype: int64"	8.508380461679163e-42	26	58
+modA0-875_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.050102792719054316	1.1337505557265484	"26     58   
+True   True     15392
+       False     2166
+False  True      2106
+       False      336
+dtype: int64"	0.06240561370700716	26	58
+modA0-975_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.15879005628369214	1.1377139647889043	"26     58   
+True   False    10285
+       True      9218
+False  False      278
+       True       219
+dtype: int64"	0.1890357812901097	26	58
+modA0-975_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.9415207357461064e-05	0.5560695633731874	"26     58   
+True   False    18016
+       True      1456
+False  False      461
+       True        67
+dtype: int64"	6.131254477827276e-05	26	58
+modA0-475_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00022260100087079666	1.3928095933876545	"26     58   
+False  True     10131
+True   True      9334
+False  False      322
+True   False      213
+dtype: int64"	0.0003287356552944254	26	58
+modA0-475_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.87849226072257e-14	2.0275718637762146	"26     58   
+False  True     10159
+True   True      9341
+False  False      344
+True   False      156
+dtype: int64"	2.1960934920515192e-13	26	58
+modA0-775_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0004318794218112743	1.4228937619054762	"26     58   
+True   True     15078
+False  True      4408
+True   False      363
+False  False      151
+dtype: int64"	0.0006272107785640912	26	58
+modA0-275_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.8495526985909834e-09	1.211502576434215	"26     58   
+False  True     8200
+       False    6324
+True   True     3346
+       False    2130
+dtype: int64"	5.699105397181967e-09	26	58
+modA0-175_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0009438723836846841	0.8652147408432127	"26     58   
+False  True     12826
+       False     3653
+True   True      2649
+       False      872
+dtype: int64"	0.001342907862966014	26	58
+modA0-275_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.917728187981041e-89	1.9934871941896024	"26     58   
+False  False    11155
+True   False     3488
+False  True      3300
+True   True      2057
+dtype: int64"	8.284819463173459e-88	26	58
+modA0-175_modB0-875_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.2910053546330836e-27	1.9786478209658422	"26     58   
+False  True     14150
+True   True      3264
+False  False     2316
+True   False      270
+dtype: int64"	5.193699702546888e-27	26	58
+modA0-575_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.777981950271367e-26	1.3822373266872912	"26     58   
+True   True     8084
+False  True     5378
+True   False    3406
+False  False    3132
+dtype: int64"	6.953002040167356e-26	26	58
+modA0-175_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.9101891600384524	1.0060514867030845	"26     58   
+False  True     12872
+       False     3728
+True   True      2640
+       False      760
+dtype: int64"	0.9180582305863353	26	58
+modA0-275_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4783905416141706e-05	1.1649468553273477	"26     58   
+False  False    10647
+       True      3890
+True   False     3832
+       True      1631
+dtype: int64"	2.3735627961695398e-05	26	58
+modA0-675_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00015674430058827256	1.1625310522583852	"26     58   
+True   False    10857
+False  False     5570
+True   True      2479
+False  True      1094
+dtype: int64"	0.0002344466034439974	26	58
+modA0-875_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.641634777398932e-36	0.4845979237916528	"26     58   
+True   True     13343
+       False     4218
+False  True      2115
+       False      324
+dtype: int64"	4.99936618087352e-35	26	58
+modA0-875_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00016272688981470721	1.3937824912164816	"26     58   
+True   False    16134
+False  False     2361
+True   True      1362
+False  True       143
+dtype: int64"	0.0002428759549473242	26	58
+modA0-975_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.570239746843176e-11	2.1350058903093503	"26     58   
+True   False    13975
+       True      5498
+False  False      445
+       True        82
+dtype: int64"	3.522973790994305e-11	26	58
+modA0-275_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.572691954342415e-08	1.247464304330481	"26     58   
+False  False    12093
+True   False     4413
+False  True      2401
+True   True      1093
+dtype: int64"	1.2301829861068692e-07	26	58
+modA0-575_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.437701780004146e-34	1.4347636397683403	"26     58   
+True   False    6716
+False  False    5713
+True   True     4753
+False  True     2818
+dtype: int64"	2.6805572154950017e-33	26	58
+modA0-475_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.1318215924219526e-115	0.45286205622306186	"26     58   
+False  True     8869
+True   True     6764
+       False    2740
+False  False    1627
+dtype: int64"	7.854079551028247e-114	26	58
+modA0-375_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0006521859804581689	1.168421052631579	"26     58   
+False  True     10925
+True   True      6660
+False  False     1587
+True   False      828
+dtype: int64"	0.0009393625232936588	26	58
+modA0-875_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.8347676177906097e-48	0.5190504765814309	"26     58   
+True   False    12989
+       True      4474
+False  False     1525
+       True      1012
+dtype: int64"	2.4183219211292136e-47	26	58
+modA0-875_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.17226786879284856	0.8231857933617301	"26     58   
+True   True     16951
+False  True      2505
+True   False      485
+False  False       59
+dtype: int64"	0.20315161538066268	26	58
+modA0-275_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.008630452199634354	0.8510661710764416	"26     58   
+False  False    13329
+True   False     5152
+False  True      1143
+True   True       376
+dtype: int64"	0.01152923003767948	26	58
+modA0-175_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.743898426696622e-07	0.7699050583085967	"26     58   
+False  False    13557
+       True      3041
+True   False     2901
+       True       501
+dtype: int64"	6.519226116138396e-07	26	58
+modA0-175_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.000519799098795922	0.682250832164177	"26     58   
+False  True     16156
+True   True      3341
+False  False      386
+True   False      117
+dtype: int64"	0.0007533320272404667	26	58
+modA0-975_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0003105607142549801	0.08501865305321028	"26     58   
+True   True     19052
+       False      484
+False  True       463
+       False        1
+dtype: int64"	0.000452901041621846	26	58
+modA0-275_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5188210456948407e-76	0.4991032116032116	"26     58   
+False  False    9946
+True   False    4576
+False  True     4455
+True   True     1023
+dtype: int64"	1.4766315722033175e-75	26	58
+modA0-675_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.004050325869698306	1.1391640985151414	"26     58   
+True   True     11883
+False  True      5609
+True   False     1631
+False  False      877
+dtype: int64"	0.005526760445982094	26	58
+modA0-675_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5094122825628262	1.0404537680632164	"26     58   
+True   False    12491
+False  False     6010
+True   True      1025
+False  True       474
+dtype: int64"	0.5537090027856807	26	58
+modA0-575_modB0-775_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.241723754662107e-82	1.9185373575895985	"26     58   
+True   True     9487
+False  True     5989
+       False    2478
+True   False    2046
+dtype: int64"	1.0434204239134637e-80	26	58
+modA0-275_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5577733588523018e-20	0.7061117350450714	"26     58   
+False  True     11605
+True   True      4030
+False  False     2926
+True   False     1439
+dtype: int64"	4.8037063929366136e-20	26	58
+modA0-775_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.5004764771173758e-06	0.8512524705430462	"26     58   
+True   True     8819
+       False    6767
+False  True     2670
+       False    1744
+dtype: int64"	5.7790885235428366e-06	26	58
+modA0-975_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0909411075741472	1.1943667846348744	"26     58   
+True   True     15107
+       False     4401
+False  True       365
+       False      127
+dtype: int64"	0.11051870712135944	26	58
+modA0-975_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.087908393005684e-13	0.49195651929063927	"26     58   
+True   True     11166
+       False     8339
+False  True       362
+       False      133
+dtype: int64"	1.4348605640080738e-12	26	58
+modA0-775_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.970201944485931e-95	0.49007201754405993	"26     58   
+True   False    8779
+       True     6830
+False  True     2694
+       False    1697
+dtype: int64"	1.267986672986398e-93	26	58
+modA0-575_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.746596027589064e-06	1.2122393696647389	"26     58   
+True   True     10278
+False  True      7283
+True   False     1312
+False  False     1127
+dtype: int64"	1.572031617353075e-05	26	58
+modA0-975_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2360022211652012	1.17215151649718	"26     58   
+True   False    16085
+       True      3464
+False  False      381
+       True        70
+dtype: int64"	0.27351250797291526	26	58
+modA0-475_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.420425358113987e-10	1.3957115864581793	"26     58   
+False  False    9787
+True   False    8723
+       True      826
+False  True      664
+dtype: int64"	1.5367744824496422e-09	26	58
+modA0-675_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.04718198699837042	1.0643643945772663	"26     58   
+True   False    8429
+       True     5075
+False  False    4149
+       True     2347
+dtype: int64"	0.05908298908561591	26	58
+modA0-375_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9883836366742292e-112	2.0633915960550437	"26     58   
+False  True     7663
+True   True     5786
+False  False    4796
+True   False    1755
+dtype: int64"	6.32667520759982e-111	26	58
+modA0-975_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.04949844851855662	1.221104536489152	"26     58   
+True   False    12168
+       True      7380
+False  False      302
+       True       150
+dtype: int64"	0.06176276998750381	26	58
+modA0-075_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00012781433323559674	1.4324714033252153	"26     58   
+False  False    17150
+True   False     1352
+False  True      1346
+True   True       152
+dtype: int64"	0.0001932398126672089	26	58
+modA0-775_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.942797919964613e-10	0.4463005951124805	"26     58   
+True   True     15106
+False  True      4408
+True   False      430
+False  False       56
+dtype: int64"	1.4421241970252905e-09	26	58
+modA0-975_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0	0.9956919704028501	"26     58   
+True   True     17031
+       False     2460
+False  True       445
+       False       64
+dtype: int64"	1.0	26	58
+modA0-275_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.292977372368357e-07	0.715011279212963	"26     58   
+False  False    13381
+True   False     5114
+False  True      1182
+True   True       323
+dtype: int64"	2.350867949760649e-07	26	58
+modA0-675_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3317327293095703e-73	0.49809530407650604	"26     58   
+True   True     9965
+False  True     5550
+True   False    3511
+False  False     974
+dtype: int64"	1.1951447570726911e-72	26	58
+modA0-875_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4678458864462377e-13	0.7240941537105463	"26     58   
+True   False    11049
+       True      6485
+False  False     1362
+       True      1104
+dtype: int64"	3.5676809740012723e-13	26	58
+modA0-975_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.48827742212833186	1.0957037527636821	"26     58   
+True   True     17045
+       False     2474
+False  True       415
+       False       66
+dtype: int64"	0.534053430452863	26	58
+modA0-175_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.282084447969572e-88	0.4708115982246111	"26     58   
+False  True     10041
+       False     6519
+True   False     1994
+       True      1446
+dtype: int64"	1.7597237521150987e-87	26	58
+modA0-475_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.5857477499274136e-110	1.9253550853577333	"26     58   
+False  False    7340
+True   False    5096
+       True     4327
+False  True     3237
+dtype: int64"	7.240093699796758e-109	26	58
+modA0-775_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.943330390279152e-06	0.857690874932904	"26     58   
+True   False    8280
+       True     7273
+False  True     2250
+       False    2197
+dtype: int64"	1.1303095984175362e-05	26	58
+modA0-675_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.625361594539505	1.048373948234198	"26     58   
+True   True     13094
+False  True      6420
+True   False      321
+False  False      165
+dtype: int64"	0.6688896449651206	26	58
+modA0-075_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.713861551324224e-17	0.628618964340271	"26     58   
+False  False    9701
+       True     8835
+True   False     931
+       True      533
+dtype: int64"	1.8723916676999826e-16	26	58
+modA0-475_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.2255957219155016e-20	1.3676313047927349	"26     58   
+False  True     7881
+True   True     7636
+False  False    2624
+True   False    1859
+dtype: int64"	1.6043495637459873e-19	26	58
+modA0-775_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.8653657065907776e-05	0.8680834073126337	"26     58   
+True   False    9871
+       True     5605
+False  False    2735
+       True     1789
+dtype: int64"	7.501665186373446e-05	26	58
+modA0-375_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.9318114624136327e-118	0.4901651148355059	"26     58   
+False  True     9125
+True   True     4307
+False  False    3346
+True   False    3222
+dtype: int64"	8.451675148059643e-117	26	58
+modA0-875_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.006550543704173631	1.4007097038351304	"26     58   
+True   True     17105
+False  True      2380
+True   False      431
+False  False       84
+dtype: int64"	0.00883503004416482	26	58
+modA0-775_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.644452805882069e-17	1.3880206962200399	"26     58   
+True   True     12212
+False  True      3333
+True   False     3231
+False  False     1224
+dtype: int64"	2.1150659937223115e-16	26	58
+modA0-675_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.1703923594374328e-82	1.8509623916860622	"26     58   
+True   False    7818
+       True     5633
+False  False    4714
+       True     1835
+dtype: int64"	2.4906141829609885e-81	26	58
+modA0-775_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6682970879336484	1.015305231625057	"26     58   
+True   True     8882
+       False    6641
+False  True     2545
+       False    1932
+dtype: int64"	0.7024143566870179	26	58
+modA0-175_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.7047874444959326e-28	0.37938311398825586	"26     58   
+False  False    15170
+True   False     3337
+False  True      1378
+True   True       115
+dtype: int64"	6.978662053492122e-28	26	58
+modA0-175_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0008097988635973889	1.1476931912885224	"26     58   
+False  False    12047
+       True      4419
+True   False     2487
+       True      1047
+dtype: int64"	0.0011592212771332766	26	58
+modA0-775_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7954307211971255	1.0197491967938244	"26     58   
+True   False    14394
+False  False     4118
+True   True      1162
+False  True       326
+dtype: int64"	0.8197085330873098	26	58
+modA0-975_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0005615599421413148	0.7234066785112295	"26     58   
+True   False    12195
+       True      7329
+False  False      260
+       True       216
+dtype: int64"	0.0008104988855647844	26	58
+modA0-475_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.42861634887935707	0.9769525138575286	"26     58   
+False  False    6534
+True   False    6069
+False  True     3878
+True   True     3519
+dtype: int64"	0.47323571642831225	26	58
+modA0-175_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.101641328691778e-21	0.686388402173132	"26     58   
+False  True     11463
+       False     5158
+True   True      2041
+       False     1338
+dtype: int64"	3.570133935575207e-21	26	58
+modA0-475_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.9434916492475571	1.0021330605307988	"26     58   
+False  False    5512
+True   False    4989
+False  True     4981
+True   True     4518
+dtype: int64"	0.9489140150478304	26	58
+modA0-475_modB0-875_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.6048186137972437e-07	1.2425132188479715	"26     58   
+False  True     9159
+True   True     8322
+False  False    1455
+True   False    1064
+dtype: int64"	7.978646113015026e-07	26	58
+modA0-075_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.19310805350952204	1.2982199673230717	"26     58   
+False  True     18045
+True   True      1461
+False  False      465
+True   False       29
+dtype: int64"	0.2260462164827181	26	58
+modA0-775_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.166647733108596e-79	0.48810543008655194	"26     58   
+True   True     9827
+       False    5664
+False  True     3519
+       False     990
+dtype: int64"	7.377431489964732e-78	26	58
+modA0-975_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.11580467536698469	0.8599580404737998	"26     58   
+True   True     13168
+       False     6282
+False  True       390
+       False      160
+dtype: int64"	0.1392839738090881	26	58
+modA0-275_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4210183349602577e-103	2.0303487573675456	"26     58   
+False  True     7614
+       False    6773
+True   True     3903
+       False    1710
+dtype: int64"	2.763091206867168e-102	26	58
+modA0-275_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.613707967244532e-07	0.8314359390428913	"26     58   
+False  True     11398
+True   True      4079
+False  False     3162
+True   False     1361
+dtype: int64"	1.4814731147595018e-06	26	58
+modA0-675_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.644869091446688e-37	0.676850197588519	"26     58   
+True   False    8757
+       True     4621
+False  False    3721
+       True     2901
+dtype: int64"	4.7276627843849076e-36	26	58
+modA0-075_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.008790546694339527	0.8169651134046103	"26     58   
+False  True     16181
+       False     2317
+True   True      1278
+       False      224
+dtype: int64"	0.011720728925786036	26	58
+modA0-675_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.1885263244203665e-27	0.7215771670856181	"26     58   
+True   False    7412
+       True     6085
+False  True     3461
+       False    3042
+dtype: int64"	1.6658911517581002e-26	26	58
+modA0-475_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.759663276751376e-135	0.4904597709720108	"26     58   
+False  True     6924
+True   False    4881
+       True     4560
+False  False    3635
+dtype: int64"	1.3663528587451927e-132	26	58
+modA0-075_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.848428179873412e-05	0.7904500140893033	"26     58   
+False  True     10853
+       False     7694
+True   True       766
+       False      687
+dtype: int64"	2.9406811952531553e-05	26	58
+modA0-275_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.537768259674449e-119	0.47537460086177474	"26     58   
+False  True     9042
+       False    5499
+True   False    3064
+       True     2395
+dtype: int64"	1.1842918545147428e-117	26	58
+modA0-675_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.519918394824173e-09	1.4395143857300252	"26     58   
+True   False    12336
+False  False     6232
+True   True      1060
+False  True       372
+dtype: int64"	5.054277582741894e-09	26	58
+modA0-575_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.0664395032337e-10	1.2630541083879319	"26     58   
+True   False    9327
+False  False    7179
+True   True     2171
+False  True     1323
+dtype: int64"	1.8666198977245852e-09	26	58
+modA0-175_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.2696742830328034e-09	1.256715519902974	"26     58   
+False  False    8948
+       True     7618
+True   True     1775
+       False    1659
+dtype: int64"	2.598748532523282e-09	26	58
+modA0-675_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.829386742503599e-107	1.9569566827051856	"26     58   
+True   True     8539
+       False    5010
+False  False    3448
+       True     3003
+dtype: int64"	1.4070933516387998e-105	26	58
+modA0-375_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.421036911812392e-07	1.1922235085492205	"26     58   
+False  True     9709
+True   True     5897
+False  False    2911
+True   False    1483
+dtype: int64"	1.608469716650896e-06	26	58
+modA0-575_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.2855687924302763e-134	0.49043035220284337	"26     58   
+True   False    6874
+False  True     4912
+True   True     4662
+False  False    3552
+dtype: int64"	1.4998302578353224e-132	26	58
+modA0-675_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.112457109514071e-08	1.1897459595902484	"26     58   
+True   False    6945
+       True     6607
+False  False    3583
+       True     2865
+dtype: int64"	2.18128845002759e-08	26	58
+modA0-975_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7449168371128989	1.0329113924050632	"26     58   
+True   True     11220
+       False     8295
+False  True       275
+       False      210
+dtype: int64"	0.7748020594042039	26	58
+modA0-475_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.455572592623482e-24	1.4584252561784208	"26     58   
+False  False    8879
+True   False    7584
+       True     1962
+False  True     1575
+dtype: int64"	1.266440217191852e-23	26	58
+modA0-975_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8580282451641619	0.9776586025651673	"26     58   
+True   False    16099
+       True      3400
+False  False      412
+       True        89
+dtype: int64"	0.8755390256777162	26	58
+modA0-875_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6453406417195875	0.979519355242828	"26     58   
+True   False    10885
+       True      6578
+False  False     1569
+       True       968
+dtype: int64"	0.6854908182150399	26	58
+modA0-675_modB0-975_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.2842630740835473e-13	0.46231465946202294	"26     58   
+True   True     12998
+False  True      6473
+True   False      430
+False  False       99
+dtype: int64"	5.49479089985733e-13	26	58
+modA0-975_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0002389487110915807	2.2287184928400183	"26     58   
+True   True     18977
+       False      506
+False  True       488
+       False       29
+dtype: int64"	0.0003521349426612768	26	58
+modA0-675_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.987121357715973e-25	0.7266835958127543	"26     58   
+True   True     7412
+       False    6132
+False  True     4032
+       False    2424
+dtype: int64"	1.4925053210701504e-24	26	58
+modA0-675_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8965010208774622e-120	0.49027482188391325	"26     58   
+True   False    7930
+       True     5647
+False  True     3804
+       False    2619
+dtype: int64"	9.482505104387311e-119	26	58
+modA0-575_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8005224598413938e-09	0.8369490260804685	"26     58   
+True   False    7473
+False  False    5076
+True   True     4113
+False  True     3338
+dtype: int64"	3.642675496788947e-09	26	58
+modA0-775_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00437309489182776	1.1054696986150552	"26     58   
+True   False    9628
+       True     5855
+False  False    2914
+       True     1603
+dtype: int64"	0.005955576700932747	26	58
+modA0-075_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0002122167576338594	1.3901560927582195	"26     58   
+False  True     16165
+       False     2314
+True   True      1379
+       False      142
+dtype: int64"	0.00031472824225360505	26	58
+modA0-575_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.0271309433901646e-103	1.9317989273222944	"26     58   
+True   True     8550
+False  True     4973
+       False    3427
+True   False    3050
+dtype: int64"	7.618896379386798e-102	26	58
+modA0-875_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.26478405819885853	0.949431455645163	"26     58   
+True   True     11836
+       False     5627
+False  True      1748
+       False      789
+dtype: int64"	0.304349492182596	26	58
+modA0-275_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.525502575994022e-08	0.8364966025996052	"26     58   
+False  False    8919
+       True     5587
+True   False    3605
+       True     1889
+dtype: int64"	1.2246251483098703e-07	26	58
+modA0-875_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.022168301230999013	1.139967981476289	"26     58   
+True   False    14283
+       True      3112
+False  False     2187
+       True       418
+dtype: int64"	0.02863064734630869	26	58
+modA0-375_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.7563025609773274e-107	1.9378948408405947	"26     58   
+False  True     6485
+       False    6029
+True   True     5059
+       False    2427
+dtype: int64"	1.1890756402443318e-105	26	58
+modA0-875_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.6620656764562916e-14	0.6576270275099333	"26     58   
+True   True     13418
+       False     4139
+False  True      2031
+       False      412
+dtype: int64"	6.776167176434197e-14	26	58
+modA0-175_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.3245391319864143e-07	0.8159451958758207	"26     58   
+False  True     11214
+       False     5326
+True   True      2187
+       False     1273
+dtype: int64"	4.109033819167904e-07	26	58
+modA0-775_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5063601593194378	0.975091322094055	"26     58   
+True   False    11270
+       True      4241
+False  False     3239
+       True      1250
+dtype: int64"	0.5512474518252044	26	58
+modA0-475_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.948617791208948e-26	1.3483865077520667	"26     58   
+False  False    5841
+True   True     4923
+       False    4634
+False  True     4602
+dtype: int64"	2.6725453043111337e-25	26	58
+modA0-475_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.118941867253389e-41	0.6807025522928847	"26     58   
+False  True     6572
+True   True     4973
+       False    4451
+False  False    4004
+dtype: int64"	4.018757505707558e-40	26	58
+modA0-775_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.690315099599184e-06	0.7838789892160085	"26     58   
+True   True     13496
+False  True      3968
+True   False     2061
+False  False      475
+dtype: int64"	7.725224869928069e-06	26	58
+modA0-975_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0072711169937025215	0.78667272339797	"26     58   
+True   False    12151
+       True      7321
+False  False      299
+       True       229
+dtype: int64"	0.009750540029869283	26	58
+modA0-975_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.293330118381326e-14	2.0102732477028913	"26     58   
+True   False    10140
+       True      9338
+False  False      358
+       True       164
+dtype: int64"	1.3280756569415513e-13	26	58
+modA0-775_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5536838157096092e-90	1.9870448391634188	"26     58   
+True   True     9390
+       False    6085
+False  False    2547
+       True     1978
+dtype: int64"	2.2195483081565845e-89	26	58
+modA0-375_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.77266746866606e-33	0.6948908559559926	"26     58   
+False  False    7330
+True   False    5150
+False  True     5053
+True   True     2467
+dtype: int64"	2.242192770514256e-32	26	58
+modA0-375_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6189087852240202e-105	0.5077028753670426	"26     58   
+False  False    7191
+True   False    5413
+False  True     5351
+True   True     2045
+dtype: int64"	3.7774538321893806e-104	26	58
+modA0-475_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5569936150480715e-34	0.6750082019140973	"26     58   
+True   False    7325
+False  False    7246
+       True     3227
+True   True     2202
+dtype: int64"	7.784968075240357e-34	26	58
+modA0-475_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.316833012324592e-09	0.8463852573982366	"26     58   
+False  False    5330
+True   False    5222
+False  True     5165
+True   True     4283
+dtype: int64"	8.536110476348064e-09	26	58
+modA0-475_modB0-375_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.405105540973718e-10	0.8319608750268467	"26     58   
+False  False    6353
+True   False    6067
+False  True     4224
+True   True     3356
+dtype: int64"	7.201129542844721e-10	26	58
+modA0-375_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.3056163850709412	0.9684190654485704	"26     58   
+False  True     8382
+True   True     5050
+False  False    4049
+True   False    2519
+dtype: int64"	0.34672847576930116	26	58
+modA0-575_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.7883239114203806e-07	0.8362856500002744	"26     58   
+True   True     8824
+False  True     6749
+True   False    2700
+False  False    1727
+dtype: int64"	4.891796335825229e-07	26	58
+modA0-575_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3109096158548013e-10	0.8134125043660496	"26     58   
+True   False    8589
+False  False    6000
+True   True     2911
+False  True     2500
+dtype: int64"	2.81483659846123e-10	26	58
+modA0-375_modB0-275_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4299037642187193e-29	0.6854586281918778	"26     58   
+False  False    8719
+True   False    5892
+False  True     3683
+True   True     1706
+dtype: int64"	6.066258393655173e-29	26	58
+modA0-175_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.811443797527653e-33	2.1435498289800994	"26     58   
+False  False    15535
+True   False     3015
+False  True      1024
+True   True       426
+dtype: int64"	4.112007105512905e-32	26	58
+modA0-275_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.406689737057466e-08	0.8427845114768262	"26     58   
+False  False    7405
+       True     7060
+True   False    3069
+       True     2466
+dtype: int64"	1.3752474312838796e-07	26	58
+modA0-175_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.394369547996523e-56	0.517856068248763	"26     58   
+False  True     13156
+       False     3294
+True   True      2393
+       False     1157
+dtype: int64"	3.814200690502592e-55	26	58
+modA0-975_modB0-375_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0012186729920313753	1.3830550561525996	"26     58   
+True   False    12229
+       True      7300
+False  False      329
+       True       142
+dtype: int64"	0.0017199014000442798	26	58
+modA0-375_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.04500018301467468	1.0623008737334194	"26     58   
+False  False    7861
+True   False    4633
+False  True     4616
+True   True     2890
+dtype: int64"	0.05645184249152737	26	58
+modA0-075_modB0-375_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.9101874490737141	0.9918994386832842	"26     58   
+False  False    11649
+       True      6900
+True   False      914
+       True       537
+dtype: int64"	0.9180582305863353	26	58
+modA0-775_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0032683707505076123	0.7049510161854544	"26     58   
+True   True     15095
+False  True      4407
+True   False      413
+False  False       85
+dtype: int64"	0.0044948124270242215	26	58
+modA0-075_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.37336972439845e-18	0.4832467945040493	"26     58   
+False  False    15180
+       True      3309
+True   False     1367
+       True       144
+dtype: int64"	4.0224217869410674e-18	26	58
+modA0-575_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.202115928623354e-15	1.3512455977516336	"26     58   
+True   False    9323
+False  False    7206
+True   True     2208
+False  True     1263
+dtype: int64"	1.109992886806169e-14	26	58
+modA0-475_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.837677334236303e-34	0.7004958806112623	"26     58   
+True   False    6237
+False  False    6157
+       True     4449
+True   True     3157
+dtype: int64"	3.3238709263648696e-33	26	58
+modA0-075_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.018243135910200985	1.6459991722093348	"26     58   
+False  True     18068
+True   True      1431
+False  False      478
+True   False       23
+dtype: int64"	0.023648509513223497	26	58
+modA0-975_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.803311059370147e-09	0.43395321856108005	"26     58   
+True   False    18138
+       True      1407
+False  False      386
+       True        69
+dtype: int64"	1.9276173431345797e-08	26	58
+modA0-775_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.035084892119669e-59	0.5113812478992356	"26     58   
+True   False    13101
+False  False     3308
+True   True      2404
+False  True      1187
+dtype: int64"	5.1837467626144935e-58	26	58
+modA0-875_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.2923387595233635e-13	1.378078279314953	"26     58   
+True   False    9065
+       True     8443
+False  False    1487
+       True     1005
+dtype: int64"	3.152045754935033e-13	26	58
+modA0-175_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.008302188683380979	0.8629693414393256	"26     58   
+False  True     14594
+True   True      2983
+False  False     1959
+True   False      464
+dtype: int64"	0.011111916019821578	26	58
+modA0-975_modB0-275_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.06873533070148594	0.8369515086733116	"26     58   
+True   False    14177
+       True      5319
+False  False      348
+       True       156
+dtype: int64"	0.0841166634458744	26	58
+modA0-775_modB0-375_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.872898789726201e-27	0.6894730911540804	"26     58   
+True   False    9949
+       True     5606
+False  False    2446
+       True     1999
+dtype: int64"	2.718095566558385e-26	26	58
+modA0-175_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.093030894054425e-05	0.8578495483151606	"26     58   
+False  False    8605
+       True     7854
+True   False    1986
+       True     1555
+dtype: int64"	6.352819569485804e-05	26	58
+modA0-275_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.19879962741295532	1.0502415764253936	"26     58   
+False  True     11146
+True   True      4383
+False  False     3253
+True   False     1218
+dtype: int64"	0.23154698700344215	26	58
+modA0-075_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.048971577221268e-43	2.1263182667927762	"26     58   
+False  False    10210
+       True      8310
+True   True       938
+       False      542
+dtype: int64"	2.920892647979246e-42	26	58
+modA0-575_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.696024613293791e-07	0.8009673354915255	"26     58   
+True   True     9969
+False  True     7612
+True   False    1501
+False  False     918
+dtype: int64"	9.844980813100378e-07	26	58
+modA0-075_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0003622050117495634	0.6637420337961951	"26     58   
+False  False    17070
+       True      1444
+True   False     1407
+       True        79
+dtype: int64"	0.0005271174807166203	26	58
+modA0-875_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.7547866083143537e-16	1.4492836363565509	"26     58   
+True   False    10748
+       True      6716
+False  False     1772
+       True       764
+dtype: int64"	7.562159316941363e-16	26	58
+modA0-975_modB0-775_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0729859099153378	0.8159987003803298	"26     58   
+True   True     15069
+       False     4401
+False  True       428
+       False      102
+dtype: int64"	0.08916254265399032	26	58
+modA0-975_modB0-475_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.988711716264357e-14	0.5024384857847007	"26     58   
+True   False    10213
+       True      9276
+False  True       329
+       False      182
+dtype: int64"	1.4971779290660892e-13	26	58
+modA0-175_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.275966626668736e-06	1.2397218181922784	"26     58   
+False  False    13781
+True   False     2772
+False  True      2759
+True   True       688
+dtype: int64"	1.3410131108028045e-05	26	58
+modA0-675_modB0-875_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3749899056416103e-15	1.4284522477171806	"26     58   
+True   True     12038
+False  True      5473
+True   False     1509
+False  False      980
+dtype: int64"	3.701895899804335e-15	26	58
+modA0-875_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0	0.9906835756726683	"26     58   
+True   True     17074
+False  True      2423
+True   False      441
+False  False       62
+dtype: int64"	1.0	26	58
+modA0-575_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.010092482708734e-129	2.010222339868716	"26     58   
+True   True     6313
+False  False    5305
+True   False    5142
+False  True     3240
+dtype: int64"	3.5058872815800945e-127	26	58
+modA0-275_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00014684800323317738	0.8798991240887138	"26     58   
+False  True     9918
+       False    4653
+True   True     3541
+       False    1888
+dtype: int64"	0.000220114780006904	26	58
+modA0-675_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.568229536306269e-19	1.3717739174383723	"26     58   
+True   True     10773
+False  True      4752
+True   False     2788
+False  False     1687
+dtype: int64"	2.541424015006097e-18	26	58
+modA0-575_modB0-775_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.5137526965662404e-05	1.1552639164420029	"26     58   
+True   True     8965
+False  True     6553
+True   False    2430
+False  False    2052
+dtype: int64"	3.936525475607088e-05	26	58
+modA0-875_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.142711557982477e-49	1.997688804296105	"26     58   
+True   False    10642
+       True      6851
+False  False     1896
+       True       611
+dtype: int64"	3.908998264170667e-48	26	58
+modA0-775_modB0-275_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.097920105200728e-73	0.5175350883796316	"26     58   
+True   False    11738
+       True      3698
+False  False     2837
+       True      1727
+dtype: int64"	2.744992498279126e-72	26	58
+modA0-875_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3121659390363705e-45	0.4912861502167669	"26     58   
+True   True     11598
+       False     5947
+False  True      1961
+       False      494
+dtype: int64"	8.057159274784731e-45	26	58
+modA0-275_modB0-575_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.217505190398116e-05	0.8817742970990726	"26     58   
+False  True     8541
+       False    6021
+True   True     3022
+       False    2416
+dtype: int64"	0.00014087890028992753	26	58
+modA0-475_modB0-275_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0039150600950604e-85	1.8761424965320601	"26     58   
+False  False    8397
+True   False    6205
+       True     3136
+False  True     2262
+dtype: int64"	1.2548938251188256e-84	26	58
+modA0-575_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4164322423994247e-05	1.494065768956396	"26     58   
+True   True     11181
+False  True      8337
+       False      254
+True   False      228
+dtype: int64"	2.2793162521370053e-05	26	58
+modA0-875_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0659961217010337	1.1722606120434353	"26     58   
+True   False    16208
+False  False     2280
+True   True      1350
+False  True       162
+dtype: int64"	0.0809059285301639	26	58
+modA0-475_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.6538608981602086e-69	0.4620484483153182	"26     58   
+False  True     9599
+True   True     7954
+       False    1571
+False  False     876
+dtype: int64"	3.0815694321833085e-68	26	58
+modA0-175_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1269149286285563e-20	1.4742431284810575	"26     58   
+False  True     11038
+       False     5504
+True   True      2584
+       False      874
+dtype: int64"	3.505957555733286e-20	26	58
+modA0-475_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1955025530609829e-08	0.8418620628772626	"26     58   
+False  True     7249
+True   True     6185
+       False    3305
+False  False    3261
+dtype: int64"	2.337574824420916e-08	26	58
+modA0-875_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.586675974094792e-09	0.6366933239373794	"26     58   
+True   False    16292
+False  False     2224
+True   True      1222
+False  True       262
+dtype: int64"	3.2193425561343604e-09	26	58
+modA0-775_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.49341233460102163	1.0725390183216468	"26     58   
+True   True     15053
+False  True      4421
+True   False      400
+False  False      126
+dtype: int64"	0.5379885268235438	26	58
+modA0-075_modB0-775_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.859376500593503e-08	1.4629023144154445	"26     58   
+False  True     14242
+       False     4279
+True   True      1227
+       False      252
+dtype: int64"	7.301523109230952e-08	26	58
+modA0-975_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.013708926348221018	0.6830356426141604	"26     58   
+True   True     17018
+       False     2486
+False  True       451
+       False       45
+dtype: int64"	0.017970502703660508	26	58
+modA0-575_modB0-275_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.4318122892284355e-07	1.178921110681667	"26     58   
+True   False    8172
+False  False    6346
+True   True     3305
+False  True     2177
+dtype: int64"	6.005671506149763e-07	26	58
+modA0-075_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.00028766099448205543	0.7986521714160044	"26     58   
+False  True     14422
+       False     4058
+True   True      1124
+       False      396
+dtype: int64"	0.00042214401705962016	26	58
+modA0-275_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.790575921762272e-17	1.4076714241631783	"26     58   
+False  False    12124
+True   False     4292
+False  True      2392
+True   True      1192
+dtype: int64"	5.1159312050350636e-17	26	58
+modA0-375_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7776853812782152	1.0304141581156947	"26     58   
+False  True     12169
+True   True      7338
+False  False      311
+True   False      182
+dtype: int64"	0.8029200101692487	26	58
+modA0-275_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2967741783071211	1.0343587629558508	"26     58   
+False  True     8339
+       False    6194
+True   True     3182
+       False    2285
+dtype: int64"	0.33779174766664194	26	58
+modA0-775_modB0-675_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.84350436515075e-07	0.8347924814848167	"26     58   
+True   True     10308
+       False     5201
+False  True      3160
+       False     1331
+dtype: int64"	1.5135582043045293e-06	26	58
+modA0-975_modB0-075_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.8622291454209154	0.96797783933518	"26     58   
+True   False    18050
+       True      1456
+False  False      456
+       True        38
+dtype: int64"	0.8785449807782253	26	58
+modA0-175_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.42508032210173474	0.9682476717157849	"26     58   
+False  True     11271
+       False     5205
+True   True      2386
+       False     1138
+dtype: int64"	0.47081681245445306	26	58
+modA0-175_modB0-875_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.058913612301195e-39	0.5103788284900467	"26     58   
+False  True     14704
+True   True      2781
+False  False     1835
+True   False      680
+dtype: int64"	1.7129916228886693e-38	26	58
+modA0-875_modB0-675_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.4540739219920096e-22	1.5392981487342838	"26     58   
+True   True     12042
+       False     5466
+False  True      1467
+       False     1025
+dtype: int64"	8.339086142691295e-22	26	58
+modA0-775_modB0-575_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.469052304996564e-91	0.4868339246774713	"26     58   
+True   True     8353
+       False    7185
+False  True     3145
+       False    1317
+dtype: int64"	1.0892367944786655e-89	26	58
+modA0-175_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.540361599842277e-14	0.7486408372013065	"26     58   
+False  True     9744
+       False    6815
+True   True     1779
+       False    1662
+dtype: int64"	3.94964512780071e-14	26	58
+modA0-475_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6435438782447709	1.017428109480347	"26     58   
+False  False    8716
+True   False    7721
+False  True     1874
+True   True     1689
+dtype: int64"	0.6854908182150399	26	58
+modA0-875_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5618762931609016	0.9703255134591056	"26     58   
+True   True     13449
+       False     3994
+False  True      1985
+       False      572
+dtype: int64"	0.6058706854078199	26	58
+modA0-575_modB0-675_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.206914723808663e-110	0.4961899160593917	"26     58   
+True   True     7138
+False  True     6439
+True   False    4437
+False  False    1986
+dtype: int64"	1.4018616564100245e-108	26	58
+modA0-775_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.104615572335905e-61	0.4801889176899642	"26     58   
+True   True     11619
+       False     3892
+False  True      3867
+       False      622
+dtype: int64"	3.123077065907754e-60	26	58
+modA0-575_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.362447053178177e-76	2.0707378900432176	"26     58   
+True   False    9047
+False  False    7480
+True   True     2482
+False  True      991
+dtype: int64"	5.07258505030368e-75	26	58
+modA0-975_modB0-175_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.042718203758362015	0.7905072523601134	"26     58   
+True   False    16148
+       True      3379
+False  False      374
+       True        99
+dtype: int64"	0.05368535481302228	26	58
+modA0-775_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.668246632739065e-29	0.5127033363681043	"26     58   
+True   False    14602
+False  False     3912
+True   True       976
+False  True       510
+dtype: int64"	1.1184267322858357e-28	26	58
+modA0-175_modB0-675_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1937372755165655e-06	1.2178398939467991	"26     58   
+False  True     11012
+       False     5509
+True   True      2466
+       False     1013
+dtype: int64"	2.018396359569072e-06	26	58
+modA0-275_modB0-475_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.552232211409367e-08	1.1941324242138744	"26     58   
+False  False    7771
+       True     6794
+True   True     2776
+       False    2659
+dtype: int64"	4.908138868094936e-08	26	58
+modA0-675_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.316667789422135e-17	1.6670147799828818	"26     58   
+True   False    12363
+False  False     6111
+True   True      1177
+False  True       349
+dtype: int64"	1.2184142954014092e-16	26	58
+modA0-875_modB0-175_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.759041569451515e-07	1.3399302396117683	"26     58   
+True   False    14287
+       True      3198
+False  False     2155
+       True       360
+dtype: int64"	1.16535199473302e-06	26	58
+modA0-075_modB0-475_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0655139039749254	0.9053657711385416	"26     58   
+False  False    9649
+       True     8828
+True   False     833
+       True      690
+dtype: int64"	0.08059706991642844	26	58
+modA0-175_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.1463756527346208e-07	1.4177054898729313	"26     58   
+False  False    15427
+True   False     3068
+False  True      1174
+True   True       331
+dtype: int64"	3.803703688390467e-07	26	58
+modA0-075_modB0-975_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6776217384179861	1.0985214573391038	"26     58   
+False  True     17998
+True   True      1466
+False  False      499
+True   False       37
+dtype: int64"	0.7100826600188477	26	58
+modA0-375_modB0-575_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.5549755878857767e-32	0.7041361983521681	"26     58   
+False  True     7659
+       False    4838
+True   True     3955
+       False    3548
+dtype: int64"	7.161071786316077e-32	26	58
+modA0-875_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1272147673775978e-45	1.853077202308849	"26     58   
+True   True     12108
+       False     5330
+False  True      1411
+       False     1151
+dtype: int64"	6.98274634658689e-45	26	58
+modA0-975_modB0-675_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.0178778830938747e-11	1.860527433585359	"26     58   
+True   True     13216
+       False     6290
+False  True       262
+       False      232
+dtype: int64"	4.498453879508638e-11	26	58
+modA0-775_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.2772296576524441	0.9527375650784178	"26     58   
+True   False    12765
+False  False     3725
+True   True      2687
+False  True       823
+dtype: int64"	0.31761171907808655	26	58
+modA0-075_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0033167972076955862	1.8749421713947334	"26     58   
+False  True     18013
+True   True      1490
+False  False      476
+True   False       21
+dtype: int64"	0.0045524667556606085	26	58
+modA0-975_modB0-575_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.153295386629647e-14	1.9506349820392375	"26     58   
+True   True     11241
+       False     8225
+False  False      314
+       True       220
+dtype: int64"	1.0495692312782501e-13	26	58
+modA0-775_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.978467286520509e-07	1.1944777782785279	"26     58   
+True   True     9039
+       False    6449
+False  True     2436
+       False    2076
+dtype: int64"	3.523987533242637e-07	26	58
+modA0-475_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	8.850482076565515e-45	0.4530367892805019	"26     58   
+False  False    9420
+True   False    9102
+False  True     1028
+True   True      450
+dtype: int64"	5.295160216748599e-44	26	58
+modA0-175_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.249971038010564e-16	1.3619578281655103	"26     58   
+False  True     9275
+       False    7282
+True   True     2184
+       False    1259
+dtype: int64"	2.4999921724352876e-15	26	58
+modA0-975_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.056483114129462456	0.7431751878727451	"26     58   
+True   False    18053
+       True      1457
+False  False      442
+       True        48
+dtype: int64"	0.07010315583443921	26	58
+modA0-675_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.3592080470509176e-05	1.484263998208404	"26     58   
+True   True     13191
+False  True      6313
+True   False      290
+False  False      206
+dtype: int64"	3.711113781877848e-05	26	58
+modA0-375_modB0-075_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.739309042223874e-13	0.6628680197090265	"26     58   
+False  False    11300
+True   False     7162
+False  True      1083
+True   True       455
+dtype: int64"	1.1207825437691593e-12	26	58
+modA0-675_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.0977028262873183e-109	0.5017238201696932	"26     58   
+True   False    9235
+       True     4308
+False  False    3346
+       True     3111
+dtype: int64"	2.845896216300455e-108	26	58
+modA0-375_modB0-975_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.011918826588013538	0.7866058829914252	"26     58   
+False  True     12284
+True   True      7247
+False  False      268
+True   False      201
+dtype: int64"	0.01577160418073625	26	58
+modA0-275_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.32511432531027784	0.9583984793026268	"26     58   
+False  False    11970
+True   False     4569
+False  True      2534
+True   True       927
+dtype: int64"	0.36706456083418465	26	58
+modA0-575_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.896187689635032e-17	0.690875778945291	"26     58   
+True   True     9930
+False  True     7568
+True   False    1639
+False  False     863
+dtype: int64"	1.6575628043150692e-16	26	58
+modA0-575_modB0-975_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.9118262318243624e-10	1.7552653289955014	"26     58   
+True   True     11276
+False  True      8207
+       False      290
+True   False      227
+dtype: int64"	8.19843821041034e-10	26	58
+modA0-875_modB0-875_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.025659297797485138	0.8619205401648391	"26     58   
+True   True     15204
+False  True      2271
+True   False     2237
+False  False      288
+dtype: int64"	0.03301747878352867	26	58
+modA0-275_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3312478882088467e-18	0.6665640706689737	"26     58   
+False  True     12870
+True   True      4627
+False  False     1626
+True   False      877
+dtype: int64"	3.915434965320137e-18	26	58
+modA0-975_modB0-375_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.3631509138501387e-06	1.5796295522932635	"26     58   
+True   False    12052
+       True      7409
+False  False      388
+       True       151
+dtype: int64"	2.299290698060475e-06	26	58
+modA0-275_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.061794567514421736	1.0967496727696624	"26     58   
+False  True     12689
+True   True      4893
+False  False     1789
+True   False      629
+dtype: int64"	0.07628958952397745	26	58
+modA0-675_modB0-075_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.6160214879519888e-30	0.520197221130347	"26     58   
+True   False    12740
+False  False     5894
+True   True       723
+False  True       643
+dtype: int64"	1.1445094009789951e-29	26	58
+modA0-675_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.4355983018874347e-07	1.1739976020048941	"26     58   
+True   True     7848
+       False    5663
+False  True     3513
+       False    2976
+dtype: int64"	2.5899969363948566e-07	26	58
+modA0-775_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8690546017845196e-53	2.1583738906384196	"26     58   
+True   False    12475
+False  False     4030
+True   True      3040
+False  True       455
+dtype: int64"	1.282684530636435e-52	26	58
+modA0-275_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	6.656657146494433e-66	0.4547126821848388	"26     58   
+False  False    11585
+True   False     4884
+False  True      2963
+True   True       568
+dtype: int64"	5.418209305286166e-65	26	58
+modA0-275_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1192647404032898e-85	0.4882214865394803	"26     58   
+False  True     11857
+True   True      3665
+False  False     2742
+True   False     1736
+dtype: int64"	1.3745356461093032e-84	26	58
+modA0-375_modB0-075_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6412494007162665e-12	1.461962117188883	"26     58   
+False  False    11731
+True   False     6725
+False  True       840
+True   True       704
+dtype: int64"	3.804220465236379e-12	26	58
+modA0-875_modB0-175_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.098778764853438e-21	1.7933402337235316	"26     58   
+True   False    14247
+       True      3205
+False  False     2264
+       True       284
+dtype: int64"	2.228316204214084e-20	26	58
+modA0-575_modB0-775_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.551242229078143e-96	0.4786538528500296	"26     58   
+True   True     8281
+False  True     7200
+True   False    3191
+False  False    1328
+dtype: int64"	1.258540371513024e-94	26	58
+modA0-775_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.852396185603409	1.0067098069642801	"26     58   
+True   False    8153
+       True     7314
+False  False    2397
+       True     2136
+dtype: int64"	0.8710617955071334	26	58
+modA0-075_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.19725048507040607	1.0787699333373943	"26     58   
+False  True     12409
+       False     6099
+True   True      1025
+       False      467
+dtype: int64"	0.23012556591547376	26	58
+modA0-975_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.413283639124034e-16	0.4267413388061002	"26     58   
+True   False    16151
+       True      3371
+False  False      321
+       True       157
+dtype: int64"	1.4687203672041956e-15	26	58
+modA0-075_modB0-375_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.6414788091647945e-28	1.8372458685304371	"26     58   
+False  False    11771
+       True      6780
+True   True       745
+       False      704
+dtype: int64"	6.759030390678565e-28	26	58
+modA0-375_modB0-475_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	2.205544380670499e-29	0.7188303199212394	"26     58   
+False  True     6288
+       False    6163
+True   False    4355
+       True     3194
+dtype: int64"	9.300488352224995e-29	26	58
+modA0-275_modB0-175_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	4.117015548675975e-17	0.6953704652410695	"26     58   
+False  False    11713
+True   False     4761
+False  True      2749
+True   True       777
+dtype: int64"	1.1667655401106002e-16	26	58
+modA0-175_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.38013420783760576	1.1196207525934736	"26     58   
+False  True     16047
+True   True      3436
+False  False      434
+True   False       83
+dtype: int64"	0.423042838611008	26	58
+modA0-275_modB0-675_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.292656545813855e-18	0.7487324351341829	"26     58   
+False  True     10067
+       False     4478
+True   True      3422
+       False     2033
+dtype: int64"	1.530933711599049e-17	26	58
+modA0-275_modB0-575_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	7.73970276152478e-24	1.3844909581489226	"26     58   
+False  True     8068
+       False    6332
+True   True     3574
+       False    2026
+dtype: int64"	2.764179557687421e-23	26	58
+modA0-375_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.26401846221931896	0.9507563049145651	"26     58   
+False  True     10969
+True   True      6604
+False  False     1486
+True   False      941
+dtype: int64"	0.3039686242656633	26	58
+modA0-775_modB0-675_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.03515218427706372	1.0790582375629123	"26     58   
+True   True     10556
+       False     5008
+False  True      2934
+       False     1502
+dtype: int64"	0.044577045278885154	26	58
+modA0-275_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1200618704295855e-103	1.9965956823144906	"26     58   
+False  False    8327
+       True     6200
+True   True     3272
+       False    2201
+dtype: int64"	2.240123740859171e-102	26	58
+modA0-075_modB0-175_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.16165404206013556	1.1047330642784157	"26     58   
+False  False    15306
+       True      3253
+True   False     1167
+       True       274
+dtype: int64"	0.19179293125778796	26	58
+modA0-875_modB0-075_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.363364990290101	0.9301908985035248	"26     58   
+True   False    16256
+False  False     2294
+True   True      1259
+False  True       191
+dtype: int64"	0.40631867923813214	26	58
+modA0-775_modB0-875_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6984242968381124	1.019618838596983	"26     58   
+True   True     13632
+False  True      3903
+True   False     1908
+False  False      557
+dtype: int64"	0.7296970265472815	26	58
+modA0-375_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.5185345081166017e-29	1.3888611746679314	"26     58   
+False  False    6962
+       True     5547
+True   True     3935
+       False    3556
+dtype: int64"	1.466056045048584e-28	26	58
+modA0-375_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1562545428754754e-06	0.6378423331492115	"26     58   
+False  True     12262
+True   True      7243
+False  False      257
+True   False      238
+dtype: int64"	1.959753462500806e-06	26	58
+modA0-275_modB0-975_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.7170067564740363	1.0463487659314188	"26     58   
+False  True     14212
+True   True      5305
+False  False      356
+True   False      127
+dtype: int64"	0.7479951259788755	26	58
+modA0-875_modB0-375_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	9.026185150784448e-58	0.5011848451638911	"26     58   
+True   False    11262
+       True      6232
+False  True      1315
+       False     1191
+dtype: int64"	6.513741861390839e-57	26	58
+modA0-075_modB0-275_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.8993419894521787e-07	1.3579621865683449	"26     58   
+False  False    13504
+       True      5039
+True   False      967
+       True       490
+dtype: int64"	3.3916821240217475e-07	26	58
+modA0-975_modB0-075_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.4308238941414406	1.1878543161129524	"26     58   
+True   False    18055
+       True      1458
+False  False      456
+       True        31
+dtype: int64"	0.474177241979573	26	58
+modA0-875_modB0-475_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.6384658700823793	0.9798684078651898	"26     58   
+True   False    9153
+       True     8335
+False  False    1302
+       True     1210
+dtype: int64"	0.6812898003927828	26	58
+modA0-475_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0014708000232141996	0.7517214430256088	"26     58   
+False  True     10200
+True   True      9287
+       False      281
+False  False      232
+dtype: int64"	0.002067389590863333	26	58
+modA0-975_modB0-275_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.11167831737608819	1.190249234021967	"26     58   
+True   False    14070
+       True      5445
+False  False      366
+       True       119
+dtype: int64"	0.1345521896097448	26	58
+modA0-075_modB0-475_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.1638050469091673e-12	1.4539989951506302	"26     58   
+False  False    9930
+       True     8552
+True   True      844
+       False     674
+dtype: int64"	7.190466015702653e-12	26	58
+modA0-475_modB0-175_odds0-500	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1297402009639563e-84	0.478717750826136	"26     58   
+True   False    8321
+False  False    8060
+       True     2422
+True   True     1197
+dtype: int64"	1.318030234457949e-83	26	58
+modA0-775_modB0-475_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.596854827814882e-85	1.9740440951311626	"26     58   
+True   True     7956
+       False    7575
+False  False    2917
+       True     1552
+dtype: int64"	1.9272385852938233e-84	26	58
+modA0-175_modB0-975_odds1-414	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0005487040942497472	1.6408985164562755	"26     58   
+False  True     16136
+True   True      3408
+False  False      404
+True   False       52
+dtype: int64"	0.0007935803016008742	26	58
+modA0-975_modB0-075_odds2-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.0011514039887819444	2.022488888888889	"26     58   
+True   False    18000
+       True      1492
+False  False      488
+       True        20
+dtype: int64"	0.0016282480649441637	26	58
+modA0-775_modB0-775_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.3985336077692262	0.9655381613913415	"26     58   
+True   True     11905
+       False     3569
+False  True      3510
+       False     1016
+dtype: int64"	0.4421133525173666	26	58
+modA0-175_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.5384341381513909	0.9687991260557939	"26     58   
+False  False    13635
+       True      2887
+True   False     2886
+       True       592
+dtype: int64"	0.5834425645603306	26	58
+modA0-475_modB0-575_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.46526613157610053	1.0212628405364663	"26     58   
+False  True     6025
+True   True     5440
+False  False    4530
+True   False    4005
+dtype: int64"	0.5096812082993277	26	58
+modA0-475_modB0-775_odds0-841	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	1.1766750436754358e-12	0.7859558677611883	"26     58   
+False  True     8319
+True   True     7152
+       False    2366
+False  False    2163
+dtype: int64"	2.754757627333796e-12	26	58
+modA0-675_modB0-975_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	3.5541314762143085e-05	0.6546375477876929	"26     58   
+True   True     13263
+False  True      6222
+True   False      394
+False  False      121
+dtype: int64"	5.540962212360837e-05	26	58
+modA0-975_modB0-575_odds1-189	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.02612536404704204	1.217545537885129	"26     58   
+True   True     11108
+       False     8363
+False  True       276
+       False      253
+dtype: int64"	0.03355551345491638	26	58
+modA0-675_modB0-875_odds0-707	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	5.8897927815777124e-15	0.6888409311955519	"26     58   
+True   True     11676
+False  True      5843
+True   False     1845
+False  False      636
+dtype: int64"	1.538378711606119e-14	26	58
+modA0-675_modB0-175_odds1-000	Saccharomyces_cerevisiae_tRNA-Phe-GAA-2	26	58	0.21842529606565714	0.9519643367778852	"26     58   
+True   False    11147
+False  False     5356
+True   True      2324
+False  True      1173
+dtype: int64"	0.253561703558806	26	58
