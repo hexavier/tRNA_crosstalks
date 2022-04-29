@@ -40,19 +40,21 @@ ggplot(dataset[(apply(dataset[,c("reference","pair")],1,paste0,collapse="_") %in
   geom_point(shape = 21, color="black", stroke=1, size=2, aes(fill = fisher)) +
   scale_fill_manual(values=c("white", "black")) +
   stat_summary(fun.data=mean_sdl, geom="pointrange", color="red") +
-  stat_compare_means(method = "kruskal.test") +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 30, vjust = 1, hjust=1,color="black"),
         axis.text.y=element_text(colour="black"))
 
-sigsubset = diffcond[grepl("tRNA-Leu-",diffcond$reference)&(diffcond$pair=="26-30to39"),]
-ggplot(dataset[(apply(dataset[,c("reference","pair")],1,paste0,collapse="_") %in% apply(sigsubset[,c("reference","pair")],1,paste0,collapse="_")),], aes(x=cond, y=odds)) + 
+subsetLeu = dataset[grepl("tRNA-Leu-",dataset$reference)&(dataset$pair=="26-30to39"),]
+diffLeu = compare_means(odds ~ cond, data = subsetLeu, group.by = c("reference"),
+                        method = "anova", p.adjust.method="fdr")
+posthoc = compare_means(odds ~ cond, data = subsetLeu[(subsetLeu$reference %in% diffLeu[diffLeu$p<0.05,"reference"]),], group.by = c("reference"),
+                        method = "t.test", p.adjust.method="fdr")
+ggplot(subsetLeu, aes(x=cond, y=odds)) + 
   facet_wrap( ~ reference, ncol=3, scales = "free") +
   geom_point(shape = 21, color="black", stroke=1, size=2, aes(fill = fisher)) +
   geom_hline(yintercept=0) +
   scale_fill_manual(values=c("white", "black")) +
   stat_summary(fun.data=mean_sdl, geom="pointrange", color="red") +
-  stat_compare_means(method = "kruskal.test") +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 30, vjust = 1, hjust=1,color="black"),
         axis.text.y=element_text(colour="black"))

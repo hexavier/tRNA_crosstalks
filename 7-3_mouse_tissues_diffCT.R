@@ -48,7 +48,9 @@ subsetGlu$cond = factor(as.character(subsetGlu$cond), levels=c("Cerebellum","Cor
 
 # Plot per AA family
 diffGlu = compare_means(odds ~ cond, data = subsetGlu, group.by = c("pair","reference"),
-                         method = "kruskal.test", p.adjust.method="fdr")
+                         method = "anova", p.adjust.method="fdr")
+posthoc = compare_means(odds ~ cond, data = subsetGlu[(subsetGlu$reference %in% diffGlu[diffGlu$p<0.05,"reference"])&(subsetGlu$pair %in% diffGlu[diffGlu$p<0.05,"pair"]),], group.by = c("pair","reference"),
+                        method = "t.test", p.adjust.method="fdr")
 ggplot(subsetGlu, aes(x=cond, y=odds)) + 
   facet_wrap( ~ reference*pair, ncol=6, scales = "free") +
   geom_point(shape = 21, color="black", stroke=1, size=2, aes(fill = fisher)) +
