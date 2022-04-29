@@ -98,6 +98,7 @@ subsetdf = totaldf[apply(totaldf,1,function(x) any(abs(as.numeric(x["CT1"]))>thr
 
 ##### PLOT #####
 # Plot all
+countsdf = c()
 annotations = c()
 for (c in unique(subsetdf$cond)){
   tempdf = data.frame(row.names = 1:4)
@@ -123,19 +124,36 @@ for (c in unique(subsetdf$cond)){
   ntotal = nrow(subsetdf[subsetdf$cond==c,])
   pval = binom.test(nexpected, ntotal, alternative = "greater")
   print(sprintf("Binomial test p-value (%s): %f",c,pval$p.value))
+  # Counts df
+  tempcounts = data.frame(row.names = 1:8)
+  tempcounts$quadrant = factor(c("UP-UP","DOWN-DOWN","UP-DOWN","DOWN-UP","UP-UP","DOWN-DOWN","UP-DOWN","DOWN-UP"),levels=c("UP-UP","DOWN-DOWN","UP-DOWN","DOWN-UP"))
+  tempcounts$odds = c("OR>1","OR>1","OR>1","OR>1","OR<1","OR<1","OR<1","OR<1")
+  tempcounts$counts = c(nq1_ORp,nq3_ORp,nq4_ORp,nq2_ORp,nq1_ORn,nq3_ORn,nq4_ORn,nq2_ORn)
+  tempcounts$success = c(TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE)
+  tempcounts$cond = c
+  countsdf = rbind(countsdf,tempcounts)
 }
 
 ggplot(subsetdf, aes(x=CT1,y=CT2,label=reference)) +
-  facet_wrap( ~ cond, ncol=2, scales = "free") +
-  geom_point(shape = 16, stroke=0.5, size=2, alpha=0.5, aes(color = oddsWT)) +
+  facet_wrap( ~ cond, ncol=3, scales = "free") +
+  geom_point(shape = 16, stroke=0.5, size=1.5, alpha=0.5, aes(color = oddsWT)) +
   scale_color_gradient2(limits=c(-2,2), oob = scales::squish) +
   geom_hline(yintercept=0) +
   geom_vline(xintercept=0) +
-  geom_text(data=annotations,aes(x=xpos,y=ypos,hjust=hjustvar,vjust=vjustvar,label=text),size=3) +
+  geom_text(data=annotations,aes(x=xpos,y=ypos,hjust=hjustvar,vjust=vjustvar,label=text),size=2.5) +
   theme_classic() +
   labs(title ="Total tRNA", x ="Delta_CT1", y = "Delta_CT2")
 
-ggsave(sprintf("plots/human_stress_allpairs_oddsWT_allsamples_delta%i.pdf",thres*100),width=10,height=8)
+ggsave(sprintf("plots/human_stress_allpairs_oddsWT_allsamples_delta%i.pdf",thres*100),width=8,height=2.7)
+
+# Barplot of counts
+ggplot(countsdf, aes(fill=quadrant, y=counts, x=success)) + 
+  facet_wrap( ~ cond, ncol=3) +
+  geom_bar(position="stack", stat="identity") +
+  scale_fill_manual(values=c("#0057B7","#98C6FA","#FFDD00","#F9F0B8")) +
+  theme_classic() +
+  labs(x ="Success", y = "# pairs")
+ggsave(sprintf("plots/human_stress_allpairs_oddsWT_allsamples_barplot_delta%i.pdf",thres*100),width=5,height=3)
 
 # Orthogonal projection into diagonal
 subsetdf$orth1 = apply(subsetdf,1,function(x) ProjectPoint(as.numeric(c(x["CT1"],x["CT2"])),CreateLineAngle(c(0,0),45))[1])
