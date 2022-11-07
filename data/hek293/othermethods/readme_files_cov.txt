@@ -1,0 +1,13 @@
+2_mimseq_results/SRR12026344.unpaired_uniq.bam	mimseq	4244490
+2_mimseq_results/SRR12026345.unpaired_uniq.bam	mimseq	4842011
+2_mimseq_results/SRR10587152.FINAL.unpaired_uniq.bam	quantm	9863224
+2_mimseq_results/SRR10587153.FINAL.unpaired_uniq.bam	quantm	9543310
+2_mimseq_results/TP-CK-4S-CW1_S1_L1_bc1_TTCC.FINAL.unpaired_uniq.bam	msrseq	10843145
+2_mimseq_results/TP-CK-4S-CW1_S1_L1_bc2_TCTG.FINAL.unpaired_uniq.bam	msrseq	7859995
+2_mimseq_results/TP-CK-4S-CW1_S1_L1_bc3_TGGT.FINAL.unpaired_uniq.bam	msrseq	6195630
+2_mimseq_results/SRR5398247.FINAL.unpaired_uniq.bam	dmseq-untreated	10746009
+2_mimseq_results/SRR5398248.FINAL.unpaired_uniq.bam	dmseq-untreated	9714177
+2_mimseq_results/SRR5398249.FINAL.unpaired_uniq.bam	dmseq-untreated	7359588
+2_mimseq_results/SRR5398250.FINAL.unpaired_uniq.bam	dmseq-alkb	12716302
+2_mimseq_results/SRR5398251.FINAL.unpaired_uniq.bam	dmseq-alkb	27515337
+2_mimseq_results/SRR5398252.FINAL.unpaired_uniq.bam	dmseq-alkb	12456358

@@ -72,10 +72,10 @@ mimseq = mimseq[mimseq$X.samples>=2,]
 dmseq = dmseq[dmseq$X.samples>=3,]
 
 # Discretize odds ratio
-msrseq$avg_odds = msrseq$avg_odds>0
-quantm$avg_odds = quantm$avg_odds>0
-mimseq$avg_odds = mimseq$avg_odds>0
-dmseq$avg_odds = dmseq$avg_odds>0
+msrseq$bin_odds = msrseq$avg_odds>0
+quantm$bin_odds = quantm$avg_odds>0
+mimseq$bin_odds = mimseq$avg_odds>0
+dmseq$bin_odds = dmseq$avg_odds>0
 
 # Keep only crosstalk pairs for which modifications are detected in all methods
 all4 = names(table(c(overlap$msrseq,overlap$quantm,overlap$mimseq,overlap$dmseq))[table(c(overlap$msrseq,overlap$quantm,overlap$mimseq,overlap$dmseq))==4])
@@ -89,10 +89,10 @@ idx = apply(dmseq,1,function(x) all(c(sprintf("%s|%s",x["reference"],x["canon_va
 dmseq = dmseq[idx,]
 
 # Create lists
-overlap = list(msrseq = sprintf("%s|%s-%s|%s",msrseq$reference,msrseq$canon_var1,msrseq$canon_var2,msrseq$avg_odds),
-               quantm = sprintf("%s|%s-%s|%s",quantm$reference,quantm$canon_var1,quantm$canon_var2,quantm$avg_odds),
-               mimseq = sprintf("%s|%s-%s|%s",mimseq$reference,mimseq$canon_var1,mimseq$canon_var2,mimseq$avg_odds),
-               dmseq = sprintf("%s|%s-%s|%s",dmseq$reference,dmseq$canon_var1,dmseq$canon_var2,dmseq$avg_odds))
+overlap = list(msrseq = sprintf("%s|%s-%s|%s",msrseq$reference,msrseq$canon_var1,msrseq$canon_var2,msrseq$bin_odds),
+               quantm = sprintf("%s|%s-%s|%s",quantm$reference,quantm$canon_var1,quantm$canon_var2,quantm$bin_odds),
+               mimseq = sprintf("%s|%s-%s|%s",mimseq$reference,mimseq$canon_var1,mimseq$canon_var2,mimseq$bin_odds),
+               dmseq = sprintf("%s|%s-%s|%s",dmseq$reference,dmseq$canon_var1,dmseq$canon_var2,dmseq$bin_odds))
 
 # Plot VENN diagrams
 ## Plot diagram
