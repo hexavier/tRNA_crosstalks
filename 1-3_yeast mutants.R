@@ -121,11 +121,11 @@ ctdf = cast(subdf,reference ~ pos, value="oddsWT")
 rownames(ctdf) = ctdf$reference; ctdf = ctdf[,-c(1)]
 ctdf = ctdf[,order(as.numeric(colnames(ctdf)))]
 # Plot heatmap
-submutdf = mutdf[(rowSums(is.na(mutdf))<(ncol(mutdf)-1))|(rowSums(is.na(ctdf))<(ncol(ctdf)-1)),colnames(mutdf) %in% c("9","26","32","34","37","58","Charged")]
-ctdf = ctdf[(rowSums(is.na(mutdf))<(ncol(mutdf)-1))|(rowSums(is.na(ctdf))<(ncol(ctdf)-1)),colnames(ctdf) %in% c("9","26","32","34","37","58","Charged")]
-pdf(file="plots/heatmap_yeast_trm1.pdf", width=4.5, height=6)
+mutdf = mutdf[rowSums(is.na(ctdf))<(ncol(ctdf)-1),colnames(mutdf) %in% c("9","26","32","34","37","58","Charged")]
+ctdf = ctdf[rowSums(is.na(ctdf))<(ncol(ctdf)-1),colnames(ctdf) %in% c("9","26","32","34","37","58","Charged")]
+pdf(file="plots/heatmap_yeast_trm1.pdf", width=4.5, height=4)
 Colors=colorRampPalette(brewer.pal(11,"RdBu"))(19); Colors[10] <- "grey"
-heatmap.2(as.matrix(as.data.frame(submutdf)), trace="none", margins = c(4,12), col=Colors,Rowv = NULL, Colv = NULL,
+heatmap.2(as.matrix(as.data.frame(mutdf)), trace="none", margins = c(4,12), col=Colors,Rowv = NULL, Colv = NULL,
           na.color = "grey", add.expr={makeRects(as.matrix(as.data.frame(ctdf)),nrow(ctdf),ncol(ctdf))},
           breaks=c(seq(-1, -0.03, length.out=10),seq(0.03, 1, length.out=10)),symkey=F)
 dev.off()
@@ -147,11 +147,11 @@ ctdf = cast(subdf,reference ~ pos, value="oddsWT")
 rownames(ctdf) = ctdf$reference; ctdf = ctdf[,-c(1)]
 ctdf = ctdf[,order(as.numeric(colnames(ctdf)))]
 # Plot heatmap
-submutdf = mutdf[(rowSums(is.na(mutdf))<(ncol(mutdf)-1))|(rowSums(is.na(ctdf))<(ncol(ctdf)-1)),colnames(mutdf) %in% c("9","26","32","34","37","58","Charged")]
-ctdf = ctdf[(rowSums(is.na(mutdf))<(ncol(mutdf)-1))|(rowSums(is.na(ctdf))<(ncol(ctdf)-1)),colnames(ctdf) %in% c("9","26","32","34","37","58","Charged")]
+mutdf = mutdf[rowSums(is.na(ctdf))<(ncol(ctdf)-1),colnames(mutdf) %in% c("9","26","32","34","37","58","Charged")]
+ctdf = ctdf[rowSums(is.na(ctdf))<(ncol(ctdf)-1),colnames(ctdf) %in% c("9","26","32","34","37","58","Charged")]
 pdf(file="plots/heatmap_yeast_trm10.pdf", width=4.5, height=4)
 Colors=colorRampPalette(brewer.pal(11,"RdBu"))(19); Colors[10] <- "grey"
-heatmap.2(as.matrix(as.data.frame(submutdf)), trace="none", margins = c(4,12), col=Colors,Rowv = NULL, Colv = NULL,
+heatmap.2(as.matrix(as.data.frame(mutdf)), trace="none", margins = c(4,12), col=Colors,Rowv = NULL, Colv = NULL,
           na.color = "grey", add.expr={makeRects(as.matrix(as.data.frame(ctdf)),nrow(ctdf),ncol(ctdf))},
           breaks=c(seq(-1, -0.03, length.out=10),seq(0.03, 1, length.out=10)),symkey=F)
 dev.off()
@@ -174,11 +174,11 @@ ctdf = cast(subdf,reference ~ pos, value="oddsWT")
 rownames(ctdf) = ctdf$reference; ctdf = ctdf[,-c(1)]
 ctdf = ctdf[,order(as.numeric(colnames(ctdf)))]
 # Plot heatmap
-submutdf = mutdf[(rowSums(is.na(mutdf))<(ncol(mutdf)-1))|(rowSums(is.na(ctdf))<(ncol(ctdf)-1)),colnames(mutdf) %in% c("9","26","32","34","37","58","Charged")]
-ctdf = ctdf[(rowSums(is.na(mutdf))<(ncol(mutdf)-1))|(rowSums(is.na(ctdf))<(ncol(ctdf)-1)),colnames(ctdf) %in% c("9","26","32","34","37","58","Charged")]
+mutdf = mutdf[,colnames(mutdf) %in% c("9","26","32","34","37","58","Charged")]
+ctdf = ctdf[,colnames(ctdf) %in% c("9","26","32","34","37","58","Charged")]
 pdf(file="plots/heatmap_yeast_trm7.pdf", width=4.5, height=4)
 Colors=colorRampPalette(brewer.pal(11,"RdBu"))(19); Colors[10] <- "grey"
-heatmap.2(as.matrix(as.data.frame(submutdf)), trace="none", margins = c(4,12), col=Colors,Rowv = NULL, Colv = NULL,
+heatmap.2(as.matrix(as.data.frame(mutdf)), trace="none", margins = c(4,12), col=Colors,Rowv = NULL, Colv = NULL,
           na.color = "grey", add.expr={makeRects(as.matrix(as.data.frame(ctdf)),nrow(ctdf),ncol(ctdf))},
           breaks=c(seq(-1, -0.03, length.out=10),seq(0.03, 1, length.out=10)),symkey=F)
 dev.off()
